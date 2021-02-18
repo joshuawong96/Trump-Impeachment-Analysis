@@ -1,0 +1,138 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.6.1"
+    },
+    "node": {
+        "__typename": "GraphVideo",
+        "accessibility_caption": null,
+        "caption_is_edited": false,
+        "commenting_disabled_for_viewer": false,
+        "comments_disabled": false,
+        "dash_info": {
+            "is_dash_eligible": false,
+            "number_of_qualities": 0,
+            "video_dash_manifest": null
+        },
+        "dimensions": {
+            "height": 853,
+            "width": 480
+        },
+        "display_resources": [
+            {
+                "config_height": 1137,
+                "config_width": 640,
+                "src": "https://instagram.fsin5-1.fna.fbcdn.net/v/t51.2885-15/e35/147780389_249448563290253_6429712706306932581_n.jpg?_nc_ht=instagram.fsin5-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=mHvu_Z2HiwEAX8sgbXa&tp=1&oh=20a4333cf93c43d96b21c2d35e9b2273&oe=60308317"
+            },
+            {
+                "config_height": 1332,
+                "config_width": 750,
+                "src": "https://instagram.fsin5-1.fna.fbcdn.net/v/t51.2885-15/e35/147780389_249448563290253_6429712706306932581_n.jpg?_nc_ht=instagram.fsin5-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=mHvu_Z2HiwEAX8sgbXa&tp=1&oh=20a4333cf93c43d96b21c2d35e9b2273&oe=60308317"
+            },
+            {
+                "config_height": 1919,
+                "config_width": 1080,
+                "src": "https://instagram.fsin5-1.fna.fbcdn.net/v/t51.2885-15/e35/147780389_249448563290253_6429712706306932581_n.jpg?_nc_ht=instagram.fsin5-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=mHvu_Z2HiwEAX8sgbXa&tp=1&oh=20a4333cf93c43d96b21c2d35e9b2273&oe=60308317"
+            }
+        ],
+        "display_url": "https://instagram.fsin5-1.fna.fbcdn.net/v/t51.2885-15/e35/147780389_249448563290253_6429712706306932581_n.jpg?_nc_ht=instagram.fsin5-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=mHvu_Z2HiwEAX8sgbXa&tp=1&oh=20a4333cf93c43d96b21c2d35e9b2273&oe=60308317",
+        "edge_liked_by": {
+            "count": 10
+        },
+        "edge_media_preview_like": {
+            "count": 10,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "TW: graphic violence and disturbing footage \n\nThis was shown to Senators at the beginning of the trial \n\n#impeachmenttrial #cspan #trumpimpeachment"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0,
+            "edges": [],
+            "page_info": {
+                "end_cursor": null,
+                "has_next_page": false
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "encoding_status": null,
+        "fact_check_information": null,
+        "fact_check_overall_rating": null,
+        "gating_info": null,
+        "has_ranked_comments": false,
+        "id": "2505583139441395735",
+        "is_ad": false,
+        "is_published": true,
+        "is_video": true,
+        "location": null,
+        "media_preview": "ABcq5miiigAooooAlTy8fPuz7Yx+tK3lfw7vxx1qGigCSTZ/Bu/HH9KKjooAKKKKACiiigD/2Q==",
+        "owner": {
+            "blocked_by_viewer": false,
+            "followed_by_viewer": false,
+            "full_name": "Jayde Siwy",
+            "has_blocked_viewer": false,
+            "id": "257250139",
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "profile_pic_url": "https://instagram.fsin5-1.fna.fbcdn.net/v/t51.2885-19/s150x150/117752763_228136491779646_4075329628852713073_n.jpg?_nc_ht=instagram.fsin5-1.fna.fbcdn.net&_nc_ohc=hrnWGtWIES4AX-UpWI6&tp=1&oh=4fe3f1548b39a801e8b9d251fd40a1ca&oe=60559290",
+            "requested_by_viewer": false,
+            "username": "jaydesiwy"
+        },
+        "product_type": "igtv",
+        "shortcode": "CLFnpcVnMgX",
+        "taken_at_timestamp": 1612909331,
+        "thumbnail_resources": [
+            {
+                "config_height": 266,
+                "config_width": 150,
+                "src": "https://instagram.fsin5-1.fna.fbcdn.net/v/t51.2885-15/e35/p150x150/147780389_249448563290253_6429712706306932581_n.jpg?_nc_ht=instagram.fsin5-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=mHvu_Z2HiwEAX8sgbXa&tp=1&oh=cea830fc739f8645e6869641c4c62b1e&oe=603052BA"
+            },
+            {
+                "config_height": 426,
+                "config_width": 240,
+                "src": "https://instagram.fsin5-1.fna.fbcdn.net/v/t51.2885-15/e35/p240x240/147780389_249448563290253_6429712706306932581_n.jpg?_nc_ht=instagram.fsin5-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=mHvu_Z2HiwEAX8sgbXa&tp=1&oh=4664daf9dbbbb86a89c8940e4b3b170f&oe=60303A80"
+            },
+            {
+                "config_height": 568,
+                "config_width": 320,
+                "src": "https://instagram.fsin5-1.fna.fbcdn.net/v/t51.2885-15/e35/p320x320/147780389_249448563290253_6429712706306932581_n.jpg?_nc_ht=instagram.fsin5-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=mHvu_Z2HiwEAX8sgbXa&tp=1&oh=91ad8dfef5f9ea4c9e583800199f8787&oe=602FEC42"
+            },
+            {
+                "config_height": 853,
+                "config_width": 480,
+                "src": "https://instagram.fsin5-1.fna.fbcdn.net/v/t51.2885-15/e35/147780389_249448563290253_6429712706306932581_n.jpg?_nc_ht=instagram.fsin5-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=mHvu_Z2HiwEAX8sgbXa&tp=1&oh=20a4333cf93c43d96b21c2d35e9b2273&oe=60308317"
+            },
+            {
+                "config_height": 1137,
+                "config_width": 640,
+                "src": "https://instagram.fsin5-1.fna.fbcdn.net/v/t51.2885-15/e35/147780389_249448563290253_6429712706306932581_n.jpg?_nc_ht=instagram.fsin5-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=mHvu_Z2HiwEAX8sgbXa&tp=1&oh=20a4333cf93c43d96b21c2d35e9b2273&oe=60308317"
+            }
+        ],
+        "thumbnail_src": "https://instagram.fsin5-1.fna.fbcdn.net/v/t51.2885-15/e35/c0.186.480.480a/147780389_249448563290253_6429712706306932581_n.jpg?_nc_ht=instagram.fsin5-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=mHvu_Z2HiwEAX8sgbXa&tp=1&oh=c63d6240ea522e2a0fe4987179d161f5&oe=6030566A",
+        "title": "Opening Video from Impeachment Trial",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6IjRkN2NjOWIzZjY3NDRlNzA5YTY2OTE4YWM5YTZhMzE4MjUwNTU4MzEzOTQ0MTM5NTczNSJ9LCJzaWduYXR1cmUiOiIifQ==",
+        "video_duration": 790.8,
+        "video_url": "https://instagram.fsin5-1.fna.fbcdn.net/v/t50.2886-16/10000000_3760866740669219_7082383038037674835_n.mp4?_nc_ht=instagram.fsin5-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=gcv-lIrqjAkAX9thDl_&oe=60306F1A&oh=2e706c5768ebff50ebdd264a1da53cd0",
+        "video_view_count": 375,
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}
