@@ -1,0 +1,138 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.6.1"
+    },
+    "node": {
+        "__typename": "GraphVideo",
+        "accessibility_caption": null,
+        "caption_is_edited": false,
+        "commenting_disabled_for_viewer": false,
+        "comments_disabled": false,
+        "dash_info": {
+            "is_dash_eligible": false,
+            "number_of_qualities": 0,
+            "video_dash_manifest": null
+        },
+        "dimensions": {
+            "height": 995,
+            "width": 640
+        },
+        "display_resources": [
+            {
+                "config_height": 995,
+                "config_width": 640,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/137671759_3410019295787762_4265965003099128173_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=jhBwdLh1H4gAX9Hxf2M&tp=1&oh=9b85f677d2415def3102bde0c1a9bcce&oe=603444FE"
+            },
+            {
+                "config_height": 1166,
+                "config_width": 750,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/137671759_3410019295787762_4265965003099128173_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=jhBwdLh1H4gAX9Hxf2M&tp=1&oh=9b85f677d2415def3102bde0c1a9bcce&oe=603444FE"
+            },
+            {
+                "config_height": 1680,
+                "config_width": 1080,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/137671759_3410019295787762_4265965003099128173_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=jhBwdLh1H4gAX9Hxf2M&tp=1&oh=9b85f677d2415def3102bde0c1a9bcce&oe=603444FE"
+            }
+        ],
+        "display_url": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/137671759_3410019295787762_4265965003099128173_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=jhBwdLh1H4gAX9Hxf2M&tp=1&oh=9b85f677d2415def3102bde0c1a9bcce&oe=603444FE",
+        "edge_liked_by": {
+            "count": 1
+        },
+        "edge_media_preview_like": {
+            "count": 1,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Link episodio in bio!\n\n#bradipisapienti #informare #divertire #trump #trump2020 #trumpimpeachment #congresso #campidoglio #sciamano #twitter #facebook #instagram"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0,
+            "edges": [],
+            "page_info": {
+                "end_cursor": null,
+                "has_next_page": false
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "encoding_status": null,
+        "fact_check_information": null,
+        "fact_check_overall_rating": null,
+        "gating_info": null,
+        "has_ranked_comments": false,
+        "id": "2485146994252283071",
+        "is_ad": false,
+        "is_published": true,
+        "is_video": true,
+        "location": null,
+        "media_preview": "ABsqxIF8pg/Bx2PQ5Hvn+XWr4uk4/drxj0xx1JGO+B+daX9mQZxg/nStYQqMDJ9s1Dfmarl/l/FmLcSrMu1VSMZzkcngYHPXB79cnmqJiweorbljtY2KsG3AZIyc8/kKQR2Z/gk/X/GqXqS2tuX8Was2V+YVGkgY5U/1qlPqCqvqT0H+egpsU4VA3Zuh/wA9x/8AXFTJdUOL6MvTyJKDkbwOuRxn/H6VVEUPoR+J/wAabJODyDwevPJ+o/rmohKKqOwpblQamePkU4CjPOfl5H684/CoI1llUsiFgvUj8/8AIqnWhA7KI8Ej5+x9xSlsEW1sVvO9hURbJp0v32/3j/Oo6aCUm9Gf/9k=",
+        "owner": {
+            "blocked_by_viewer": false,
+            "followed_by_viewer": false,
+            "full_name": "Bradipi Sapienti",
+            "has_blocked_viewer": false,
+            "id": "42765634042",
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-19/s150x150/119977898_335973254317922_8619993573422874426_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=Qtj6t8LIQZ0AX85TCW-&tp=1&oh=8dfa5e409b918a824fc7e3e6c71f313c&oe=605C5DF9",
+            "requested_by_viewer": false,
+            "username": "bradipi_sapienti"
+        },
+        "product_type": "igtv",
+        "shortcode": "CJ9BAY_CXy_",
+        "taken_at_timestamp": 1610472683,
+        "thumbnail_resources": [
+            {
+                "config_height": 233,
+                "config_width": 150,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/p150x150/137671759_3410019295787762_4265965003099128173_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=jhBwdLh1H4gAX9Hxf2M&tp=1&oh=e8df89bfc552d1b1c88a6e05f2573622&oe=60341691"
+            },
+            {
+                "config_height": 373,
+                "config_width": 240,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/p240x240/137671759_3410019295787762_4265965003099128173_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=jhBwdLh1H4gAX9Hxf2M&tp=1&oh=73cb3465c7e8dff82b0c51a1bd5f3a63&oe=6033FED9"
+            },
+            {
+                "config_height": 497,
+                "config_width": 320,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/p320x320/137671759_3410019295787762_4265965003099128173_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=jhBwdLh1H4gAX9Hxf2M&tp=1&oh=c685cec5bf1420efc7637b920d49d924&oe=603431C8"
+            },
+            {
+                "config_height": 746,
+                "config_width": 480,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/p480x480/137671759_3410019295787762_4265965003099128173_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=jhBwdLh1H4gAX9Hxf2M&tp=1&oh=12edd5f26baba2a9ebfeaa232bed1e8a&oe=60347906"
+            },
+            {
+                "config_height": 995,
+                "config_width": 640,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/137671759_3410019295787762_4265965003099128173_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=jhBwdLh1H4gAX9Hxf2M&tp=1&oh=9b85f677d2415def3102bde0c1a9bcce&oe=603444FE"
+            }
+        ],
+        "thumbnail_src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/c0.150.540.540a/137671759_3410019295787762_4265965003099128173_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=jhBwdLh1H4gAX9Hxf2M&tp=1&oh=6729405f4a8392653e99c24cae930a3f&oe=6034593E",
+        "title": "Trump Censurato dai Social media",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZTExNTYzZGNlNDM5NGRmMzgxNDlkYWQxNTIxODVlZWEyNDg1MTQ2OTk0MjUyMjgzMDcxIn0sInNpZ25hdHVyZSI6IiJ9",
+        "video_duration": 90.546,
+        "video_url": "https://scontent-hkg4-1.cdninstagram.com/v/t50.2886-16/10000000_746820495936666_1543297138866891731_n.mp4?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=106&_nc_ohc=tutYcgGfLXYAX_CYpyB&oe=6034199A&oh=c3bb7479089eb71b764b1ba945763d4e",
+        "video_view_count": 13,
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}

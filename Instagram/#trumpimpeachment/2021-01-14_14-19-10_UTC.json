@@ -1,0 +1,275 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.6.1"
+    },
+    "node": {
+        "__typename": "GraphSidecar",
+        "accessibility_caption": "Photo shared by Strokes on Silver Screen on January 14, 2021 tagging @mandypatinkin. May be an image of one or more people, outerwear and text that says 'An inexperienced president came to power.'.",
+        "caption_is_edited": false,
+        "commenting_disabled_for_viewer": false,
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 608,
+            "width": 1080
+        },
+        "display_resources": [
+            {
+                "config_height": 360,
+                "config_width": 640,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/137605602_199628898533438_5450268598975664388_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=n0phk9zMWwEAX-TNd97&tp=1&oh=b5b63a4904da5850b894056d89543daf&oe=605AF180"
+            },
+            {
+                "config_height": 422,
+                "config_width": 750,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s750x750/137605602_199628898533438_5450268598975664388_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=n0phk9zMWwEAX-TNd97&tp=1&oh=633bea92161ae6499c9abf84089611ff&oe=605A493C"
+            },
+            {
+                "config_height": 608,
+                "config_width": 1080,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/137605602_199628898533438_5450268598975664388_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=n0phk9zMWwEAX-TNd97&tp=1&oh=e09f344bf769b975ed408ba28bc4ac4a&oe=605CA446"
+            }
+        ],
+        "display_url": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/137605602_199628898533438_5450268598975664388_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=n0phk9zMWwEAX-TNd97&tp=1&oh=e09f344bf769b975ed408ba28bc4ac4a&oe=605CA446",
+        "edge_liked_by": {
+            "count": 12
+        },
+        "edge_media_preview_like": {
+            "count": 12,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "How does a weak President show he's strong? HE GOES TO WAR.\n\n#TrumpImpeachment #CapitolBuilding #Homeland #MandyPatinkin #SaulBerenson #films #movies #cinema #cinephile #FilmBuff"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0,
+            "edges": [],
+            "page_info": {
+                "end_cursor": null,
+                "has_next_page": false
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": [
+                {
+                    "node": {
+                        "user": {
+                            "full_name": "Mandy Patinkin",
+                            "id": "4557309992",
+                            "is_verified": true,
+                            "profile_pic_url": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-19/s150x150/124315333_706983666864200_9009003187231410767_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=So103Y2Tyu4AX-8cwDF&tp=1&oh=ad56882a217b0d6f54b3a8f643a99ef1&oe=605A3BFB",
+                            "username": "mandypatinkin"
+                        },
+                        "x": 0.39233398,
+                        "y": 0.5471416
+                    }
+                }
+            ]
+        },
+        "edge_sidecar_to_children": {
+            "edges": [
+                {
+                    "node": {
+                        "__typename": "GraphImage",
+                        "accessibility_caption": "Photo shared by Strokes on Silver Screen on January 14, 2021 tagging @mandypatinkin. May be an image of one or more people, outerwear and text that says 'An inexperienced president came to power.'.",
+                        "dimensions": {
+                            "height": 608,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 360,
+                                "config_width": 640,
+                                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/137605602_199628898533438_5450268598975664388_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=n0phk9zMWwEAX-TNd97&tp=1&oh=b5b63a4904da5850b894056d89543daf&oe=605AF180"
+                            },
+                            {
+                                "config_height": 422,
+                                "config_width": 750,
+                                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s750x750/137605602_199628898533438_5450268598975664388_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=n0phk9zMWwEAX-TNd97&tp=1&oh=633bea92161ae6499c9abf84089611ff&oe=605A493C"
+                            },
+                            {
+                                "config_height": 608,
+                                "config_width": 1080,
+                                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/137605602_199628898533438_5450268598975664388_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=n0phk9zMWwEAX-TNd97&tp=1&oh=e09f344bf769b975ed408ba28bc4ac4a&oe=605CA446"
+                            }
+                        ],
+                        "display_url": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/137605602_199628898533438_5450268598975664388_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=n0phk9zMWwEAX-TNd97&tp=1&oh=e09f344bf769b975ed408ba28bc4ac4a&oe=605CA446",
+                        "edge_media_to_tagged_user": {
+                            "edges": [
+                                {
+                                    "node": {
+                                        "user": {
+                                            "full_name": "Mandy Patinkin",
+                                            "id": "4557309992",
+                                            "is_verified": true,
+                                            "profile_pic_url": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-19/s150x150/124315333_706983666864200_9009003187231410767_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=So103Y2Tyu4AX-8cwDF&tp=1&oh=ad56882a217b0d6f54b3a8f643a99ef1&oe=605A3BFB",
+                                            "username": "mandypatinkin"
+                                        },
+                                        "x": 0.39233398,
+                                        "y": 0.5471416
+                                    }
+                                }
+                            ]
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "2486500248295697959",
+                        "is_video": false,
+                        "media_preview": "ACoXw16ipJZTyi8A9f8AComkwfUj8qjDFuvWot1KOi0eZihj7BgR7c8/nViM51FvYf8AsorBhMkRyhw3WrCSTiQy7vnPVv8AI/pTEa+sMfs4z3f/AOKrAUcD6VYuZZ5lCOwYA57Dn8hUShgAMdBSYGcTuOaepXGSM0UVYiypj68ke9Kx8s/LnkZBzRRUjQ4Pv68n0x/UUuPp+tFFIZ//2Q==",
+                        "shortcode": "CKB0s1Ble4n",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiYjhlZDBkMjEyYzg4NDk1YWE2Y2FmN2I3M2VmNjU2YmEyNDg2NTAwMjQ4Mjk1Njk3OTU5In0sInNpZ25hdHVyZSI6IiJ9"
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "GraphImage",
+                        "accessibility_caption": "Photo by Strokes on Silver Screen on January 14, 2021. May be an image of one or more people, beard and outerwear.",
+                        "dimensions": {
+                            "height": 608,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 360,
+                                "config_width": 640,
+                                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/139371834_425503385168310_6435265472261086279_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=106&_nc_ohc=9e-_Lg4dyk8AX9TNWE_&tp=1&oh=1d6072175ce260b926ccaecd628bd1ef&oe=605B9521"
+                            },
+                            {
+                                "config_height": 422,
+                                "config_width": 750,
+                                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s750x750/139371834_425503385168310_6435265472261086279_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=106&_nc_ohc=9e-_Lg4dyk8AX9TNWE_&tp=1&oh=c46e6f8744339069233a4e3c3c0df59e&oe=605CDF65"
+                            },
+                            {
+                                "config_height": 608,
+                                "config_width": 1080,
+                                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/139371834_425503385168310_6435265472261086279_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=106&_nc_ohc=9e-_Lg4dyk8AX9TNWE_&tp=1&oh=c23dbb62f87516c7671106f306304e7d&oe=605A9D1B"
+                            }
+                        ],
+                        "display_url": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/139371834_425503385168310_6435265472261086279_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=106&_nc_ohc=9e-_Lg4dyk8AX9TNWE_&tp=1&oh=c23dbb62f87516c7671106f306304e7d&oe=605A9D1B",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "2486500248169754086",
+                        "is_video": false,
+                        "media_preview": "ACoXxIyAc+mTTNzMck0jSc8daRRu68ds1NijsNOm82KPAwFJX649KraaT50x9z/6EayYriVAFhcqF7e569qdDJNEWKNtLdT6/oaLiL2uHiP6H+lUQhxTLt5rgjeQ23p0H9BUokIGMUmBjZySamBXHPTNFFWIsKU568/mPegv5ZIXPbnP9KKKkaHbt/oT9MUce360UVNxn//Z",
+                        "shortcode": "CKB0s06FC3m",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiYjhlZDBkMjEyYzg4NDk1YWE2Y2FmN2I3M2VmNjU2YmEyNDg2NTAwMjQ4MTY5NzU0MDg2In0sInNpZ25hdHVyZSI6IiJ9"
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "GraphImage",
+                        "accessibility_caption": "Photo by Strokes on Silver Screen on January 14, 2021. May be an image of one or more people, beard, outerwear and text that says 'He He goes to war.'.",
+                        "dimensions": {
+                            "height": 608,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 360,
+                                "config_width": 640,
+                                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/139000468_3876898835695685_1829003878497111729_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=105&_nc_ohc=4AYUYbRGtt8AX-CyrGQ&tp=1&oh=c9c7db373d7611dbfaa83ac18b4cdddb&oe=605C93D9"
+                            },
+                            {
+                                "config_height": 422,
+                                "config_width": 750,
+                                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s750x750/139000468_3876898835695685_1829003878497111729_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=105&_nc_ohc=4AYUYbRGtt8AX-CyrGQ&tp=1&oh=ba45ddecd18b5ede75b38156536f2605&oe=605A7B62"
+                            },
+                            {
+                                "config_height": 608,
+                                "config_width": 1080,
+                                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/139000468_3876898835695685_1829003878497111729_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=105&_nc_ohc=4AYUYbRGtt8AX-CyrGQ&tp=1&oh=f89d5b48cce98c7a6897435b8229726c&oe=605AA342"
+                            }
+                        ],
+                        "display_url": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/139000468_3876898835695685_1829003878497111729_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=105&_nc_ohc=4AYUYbRGtt8AX-CyrGQ&tp=1&oh=f89d5b48cce98c7a6897435b8229726c&oe=605AA342",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "2486500248186763076",
+                        "is_video": false,
+                        "media_preview": "ACoXw0+8KdJISSAfl9PWo2kweOo/KmqS3X86i3Uo6bSZt0Qj/uv/APr5+v8AOn25zqEn0P8AJaxoZ5IhshbGOSMDr07j0qSOWdJDKCA7dScfyxTEaetMTAme7f0NYyjgfSpbuWedQjkMF5GMDmmKSABjoKTAzCcnNOzkUUVYiym0c5BH4ilJMZ4OeOD7UUVI0P3l/Qn06fqKXH+eaKKkZ//Z",
+                        "shortcode": "CKB0s07F7dE",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiYjhlZDBkMjEyYzg4NDk1YWE2Y2FmN2I3M2VmNjU2YmEyNDg2NTAwMjQ4MTg2NzYzMDc2In0sInNpZ25hdHVyZSI6IiJ9"
+                    }
+                }
+            ]
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "fact_check_information": null,
+        "fact_check_overall_rating": null,
+        "gating_info": null,
+        "has_ranked_comments": false,
+        "id": "2486500250787050520",
+        "is_ad": false,
+        "is_video": false,
+        "location": null,
+        "media_preview": null,
+        "owner": {
+            "blocked_by_viewer": false,
+            "followed_by_viewer": false,
+            "full_name": "Strokes on Silver Screen",
+            "has_blocked_viewer": false,
+            "id": "6169464939",
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-19/s150x150/40129217_1810088912444241_527058749974642688_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=3W33oLAyPmsAX_H0r8j&tp=1&oh=c74911971cdd000c97a213284a6e967c&oe=605A7958",
+            "requested_by_viewer": false,
+            "username": "strokessilverscreen"
+        },
+        "shortcode": "CKB0s3WFPQY",
+        "taken_at_timestamp": 1610633950,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/c236.0.608.608a/s150x150/137605602_199628898533438_5450268598975664388_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=n0phk9zMWwEAX-TNd97&tp=1&oh=d45be209282596107874c45e83884848&oe=605C7AFA"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/c236.0.608.608a/s240x240/137605602_199628898533438_5450268598975664388_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=n0phk9zMWwEAX-TNd97&tp=1&oh=08025ed811d567f317f2ad596185cbac&oe=605B1F80"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/c236.0.608.608a/s320x320/137605602_199628898533438_5450268598975664388_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=n0phk9zMWwEAX-TNd97&tp=1&oh=fd5df6b8138b2d3b7785f13dd18055eb&oe=605B5982"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/c236.0.608.608a/s480x480/137605602_199628898533438_5450268598975664388_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=n0phk9zMWwEAX-TNd97&tp=1&oh=312132af4080023b55926c143ea60aae&oe=605CF3C7"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/c236.0.608.608a/137605602_199628898533438_5450268598975664388_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=n0phk9zMWwEAX-TNd97&tp=1&oh=712293aa80740ec08f5779e657bef215&oe=605CC2F7"
+            }
+        ],
+        "thumbnail_src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/c236.0.608.608a/137605602_199628898533438_5450268598975664388_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=n0phk9zMWwEAX-TNd97&tp=1&oh=712293aa80740ec08f5779e657bef215&oe=605CC2F7",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiYjhlZDBkMjEyYzg4NDk1YWE2Y2FmN2I3M2VmNjU2YmEyNDg2NTAwMjUwNzg3MDUwNTIwIn0sInNpZ25hdHVyZSI6IiJ9",
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}

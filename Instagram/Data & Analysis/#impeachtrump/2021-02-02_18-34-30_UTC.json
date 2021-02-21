@@ -1,0 +1,247 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.6.1"
+    },
+    "node": {
+        "__typename": "GraphSidecar",
+        "accessibility_caption": "Photo by Info in Brief on February 02, 2021. May be a Twitter screenshot of 1 person and text that says 'Danie Dale @ddale8 Trump's anti-impeachment submission says this about his wildly false claims about mass election fraud: \"Insufficient evidence exists upon which a reasonable jurist could conclude that the 45th President's statements were accurate or not, and he therefore denies they were false.\" INFO IN BRIEF'.",
+        "caption_is_edited": false,
+        "commenting_disabled_for_viewer": false,
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_resources": [
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/145111702_3823595877660536_756601461439085479_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=108&_nc_ohc=GNhKQWuH05EAX9QkIeN&tp=1&oh=70e689f706b17ff2a799173454cce039&oe=605B55F0"
+            },
+            {
+                "config_height": 750,
+                "config_width": 750,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s750x750/145111702_3823595877660536_756601461439085479_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=108&_nc_ohc=GNhKQWuH05EAX9QkIeN&tp=1&oh=d753fb75047fec533857fc98b8684520&oe=605C2BAC"
+            },
+            {
+                "config_height": 1080,
+                "config_width": 1080,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/145111702_3823595877660536_756601461439085479_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=108&_nc_ohc=GNhKQWuH05EAX9QkIeN&tp=1&oh=038812e08a01e658387a84e2047418dd&oe=605AEDD6"
+            }
+        ],
+        "display_url": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/145111702_3823595877660536_756601461439085479_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=108&_nc_ohc=GNhKQWuH05EAX9QkIeN&tp=1&oh=038812e08a01e658387a84e2047418dd&oe=605AEDD6",
+        "edge_liked_by": {
+            "count": 0
+        },
+        "edge_media_preview_like": {
+            "count": 0,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Impeachment update from Fact checker Daniel Dale.\n \n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n #kamalaharris #kamala #vp #vicepresident #covid19 #coronovirus #covid #news #vaccines #vaccinate #covidvaccine #bidenharris2020 #biden #WHO #pandemic #impeachment #impeachtrump #trump #"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0,
+            "edges": [],
+            "page_info": {
+                "end_cursor": null,
+                "has_next_page": false
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "edge_sidecar_to_children": {
+            "edges": [
+                {
+                    "node": {
+                        "__typename": "GraphImage",
+                        "accessibility_caption": "Photo by Info in Brief on February 02, 2021. May be a Twitter screenshot of 1 person and text that says 'Danie Dale @ddale8 Trump's anti-impeachment submission says this about his wildly false claims about mass election fraud: \"Insufficient evidence exists upon which a reasonable jurist could conclude that the 45th President's statements were accurate or not, and he therefore denies they were false.\" INFO IN BRIEF'.",
+                        "dimensions": {
+                            "height": 1080,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 640,
+                                "config_width": 640,
+                                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/145111702_3823595877660536_756601461439085479_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=108&_nc_ohc=GNhKQWuH05EAX9QkIeN&tp=1&oh=70e689f706b17ff2a799173454cce039&oe=605B55F0"
+                            },
+                            {
+                                "config_height": 750,
+                                "config_width": 750,
+                                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s750x750/145111702_3823595877660536_756601461439085479_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=108&_nc_ohc=GNhKQWuH05EAX9QkIeN&tp=1&oh=d753fb75047fec533857fc98b8684520&oe=605C2BAC"
+                            },
+                            {
+                                "config_height": 1080,
+                                "config_width": 1080,
+                                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/145111702_3823595877660536_756601461439085479_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=108&_nc_ohc=GNhKQWuH05EAX9QkIeN&tp=1&oh=038812e08a01e658387a84e2047418dd&oe=605AEDD6"
+                            }
+                        ],
+                        "display_url": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/145111702_3823595877660536_756601461439085479_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=108&_nc_ohc=GNhKQWuH05EAX9QkIeN&tp=1&oh=038812e08a01e658387a84e2047418dd&oe=605AEDD6",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "2500399505812664042",
+                        "is_video": false,
+                        "media_preview": "ACoqrw2bSp5gZVGSOc54+gNT/wBmP/fj/M/4VbsIUmt8OCcOenUdK1VCqAAGwOBwe1VcVjBGkyt0ZD9Cf8KX+x5vVPzP+FdB5ns35GnK27sR9RilcLHNtpMyAsSmACep7fhWZXaT/wCrb/dP8q4sdKpO4mdBpo/0f/gZ659vSr3Ht+TVR0w4t+ePnbvj0q/uz3H/AH2f8KljQ3j29P4qXj2/8epc+4/77NG7vkHH+2f8KQwdSsbYxgqfX0965AdK7GRw0bDjIU5xz2NccOlUiWa1nfJbx+W+7OSflx0P1NWf7Wi/6afkv+NYsowfwqKnYLm//asX/TT8lo/taL/pp+S/41gUUWC5vtqsRQrhySCMkDuPY1gCiinsI//Z",
+                        "shortcode": "CKzNBpUhq7q",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOTA2ZDY2ZWZkMDdlNGJmMDg0NzE5YjRlN2U2ZjRlMDgyNTAwMzk5NTA1ODEyNjY0MDQyIn0sInNpZ25hdHVyZSI6IiJ9"
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "GraphImage",
+                        "accessibility_caption": "Photo by Info in Brief on February 02, 2021. May be a Twitter screenshot of 1 person.",
+                        "dimensions": {
+                            "height": 1080,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 640,
+                                "config_width": 640,
+                                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/145633946_238832414410027_7024360642868031407_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=107&_nc_ohc=oeyYTlmt25QAX-i-7kX&tp=1&oh=3ca54a13d0d0cc90b1f907688b989f97&oe=605AE480"
+                            },
+                            {
+                                "config_height": 750,
+                                "config_width": 750,
+                                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s750x750/145633946_238832414410027_7024360642868031407_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=107&_nc_ohc=oeyYTlmt25QAX-i-7kX&tp=1&oh=74159d5e0aa92ee4621a47a8d92c8087&oe=605C443C"
+                            },
+                            {
+                                "config_height": 1080,
+                                "config_width": 1080,
+                                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/145633946_238832414410027_7024360642868031407_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=107&_nc_ohc=oeyYTlmt25QAX-i-7kX&tp=1&oh=4454e8eb2a020555bfc068f61df8b5e1&oe=6059C846"
+                            }
+                        ],
+                        "display_url": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/145633946_238832414410027_7024360642868031407_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=107&_nc_ohc=oeyYTlmt25QAX-i-7kX&tp=1&oh=4454e8eb2a020555bfc068f61df8b5e1&oe=6059C846",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "2500399505804180877",
+                        "is_video": false,
+                        "media_preview": "ACoqhtIElV2cE7AMBfcmr8enRSKGwy57E/8A6utN0X70n0X+ta0vX8Peqe4kZ40uHvn/AL6p40q39T/31Voc/wCTShiP/wBVK4WMu9sIYYTImSRjvkckVi10uotm2bjHK/zFc1VITNnRjgv9F/rWww3HPt7f41jaP1f6L/X3Fbmf8/5NS9xoZsX0/UUbQPX8xT/89f8A69Gf8/5NIZR1PAtmx6r/ADFczXTal/x7t9V/mPc1zNWiWaulyLCX8xguQMZPXr71r/a4f76/n/8AXrmJRz+FRUWuFzrPtcP99fz/APr0fa4f76/n/wDXrk6KVgudBqFzFJAyqysSRwDz1Hua5+iiq2Ef/9k=",
+                        "shortcode": "CKzNBpUBT2N",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOTA2ZDY2ZWZkMDdlNGJmMDg0NzE5YjRlN2U2ZjRlMDgyNTAwMzk5NTA1ODA0MTgwODc3In0sInNpZ25hdHVyZSI6IiJ9"
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "GraphImage",
+                        "accessibility_caption": "Photo by Info in Brief on February 02, 2021. May be a Twitter screenshot of 1 person and text that says 'Daniel Dale @ddale8 Trump team: \"It is denied that the phrase if you don't fight like hell you're not going to have a country anymore' had anything to do with the action at the Capitol as it was clearly about the need to fight for election security in general, as evidenced by the recording...\" INFO IN RIEF'.",
+                        "dimensions": {
+                            "height": 1080,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 640,
+                                "config_width": 640,
+                                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/145170607_250006140049571_7850210755343106661_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=111&_nc_ohc=p1j1FBrluJUAX9gvU49&tp=1&oh=9258011f89ef9c410902c6f361e7e928&oe=605B9FF1"
+                            },
+                            {
+                                "config_height": 750,
+                                "config_width": 750,
+                                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s750x750/145170607_250006140049571_7850210755343106661_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=111&_nc_ohc=p1j1FBrluJUAX9gvU49&tp=1&oh=409b2ebe9f448e8591f1a184a1ba5802&oe=605B2EB5"
+                            },
+                            {
+                                "config_height": 1080,
+                                "config_width": 1080,
+                                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/e35/145170607_250006140049571_7850210755343106661_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=111&_nc_ohc=p1j1FBrluJUAX9gvU49&tp=1&oh=42ad860a9794426fa47d21858606a3f6&oe=605C564B"
+                            }
+                        ],
+                        "display_url": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/e35/145170607_250006140049571_7850210755343106661_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=111&_nc_ohc=p1j1FBrluJUAX9gvU49&tp=1&oh=42ad860a9794426fa47d21858606a3f6&oe=605C564B",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "2500399505787459943",
+                        "is_video": false,
+                        "media_preview": "ACoqpxW7yqWXGF4OTjr/ADqUWEpGRt5/2hV3S41kjkVgSNy9OvSthFVFCKrYH+fWqbFY5xdNnboFP0YU7+y7j+6P++hXS78dj/n8aPM9j+n+NFwscvJp88Sl3ACr15FUq6zUDm2c+39RXJ01qJm3pIyj9/mHYnt6CtTGOMDH+63+NZWlfcf/AHl9fT25rU468f8Aj1S9xoXaOeP/AB0/40bR6D/vg/40mR7f+P0oGeBj16tSGV7xf9HkPt6Ed/euYrqb5Ntu5749/UetctVolmhZ3gtQyspO4g8HFWxq6g52N/31WTKMH8KiosK5vf20v9w/mP8ACj+2l/uH8x/hWDRRZDubFzqonjaPYRuGM5FY9FFMR//Z",
+                        "shortcode": "CKzNBpTBhln",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOTA2ZDY2ZWZkMDdlNGJmMDg0NzE5YjRlN2U2ZjRlMDgyNTAwMzk5NTA1Nzg3NDU5OTQzIn0sInNpZ25hdHVyZSI6IiJ9"
+                    }
+                }
+            ]
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "fact_check_information": null,
+        "fact_check_overall_rating": null,
+        "gating_info": null,
+        "has_ranked_comments": false,
+        "id": "2500399509184716764",
+        "is_ad": false,
+        "is_video": false,
+        "location": null,
+        "media_preview": null,
+        "owner": {
+            "blocked_by_viewer": false,
+            "followed_by_viewer": false,
+            "full_name": "Info in Brief",
+            "has_blocked_viewer": false,
+            "id": "15987684308",
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-19/s150x150/139644250_442344513574072_2713033407896392650_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=9KDUPTt6VbcAX8QPySx&tp=1&oh=25734d65c7e1bf8d8554016e8e924fd9&oe=605C76E9",
+            "requested_by_viewer": false,
+            "username": "infoinbrief"
+        },
+        "shortcode": "CKzNBsdhB_c",
+        "taken_at_timestamp": 1612290870,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/s150x150/145111702_3823595877660536_756601461439085479_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=108&_nc_ohc=GNhKQWuH05EAX9QkIeN&tp=1&oh=37b4bb09090222502e9f0b31c699a4bf&oe=6059FA6B"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/s240x240/145111702_3823595877660536_756601461439085479_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=108&_nc_ohc=GNhKQWuH05EAX9QkIeN&tp=1&oh=4abbf397a57bb54fd380a8534e87efa8&oe=605BD56D"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/s320x320/145111702_3823595877660536_756601461439085479_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=108&_nc_ohc=GNhKQWuH05EAX9QkIeN&tp=1&oh=9bd48354fd7eedd33af79c2f2b5d06d9&oe=605C8393"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/s480x480/145111702_3823595877660536_756601461439085479_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=108&_nc_ohc=GNhKQWuH05EAX9QkIeN&tp=1&oh=d41510720d3e6ebd6429304f6be2bf62&oe=605AD3D6"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/145111702_3823595877660536_756601461439085479_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=108&_nc_ohc=GNhKQWuH05EAX9QkIeN&tp=1&oh=70e689f706b17ff2a799173454cce039&oe=605B55F0"
+            }
+        ],
+        "thumbnail_src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/145111702_3823595877660536_756601461439085479_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=108&_nc_ohc=GNhKQWuH05EAX9QkIeN&tp=1&oh=70e689f706b17ff2a799173454cce039&oe=605B55F0",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOTA2ZDY2ZWZkMDdlNGJmMDg0NzE5YjRlN2U2ZjRlMDgyNTAwMzk5NTA5MTg0NzE2NzY0In0sInNpZ25hdHVyZSI6IiJ9",
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}

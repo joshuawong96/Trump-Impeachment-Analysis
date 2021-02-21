@@ -1,0 +1,138 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.6.1"
+    },
+    "node": {
+        "__typename": "GraphVideo",
+        "accessibility_caption": null,
+        "caption_is_edited": true,
+        "commenting_disabled_for_viewer": false,
+        "comments_disabled": false,
+        "dash_info": {
+            "is_dash_eligible": false,
+            "number_of_qualities": 0,
+            "video_dash_manifest": null
+        },
+        "dimensions": {
+            "height": 1333,
+            "width": 750
+        },
+        "display_resources": [
+            {
+                "config_height": 1137,
+                "config_width": 640,
+                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/sh0.08/e35/p640x640/148289395_2829527667268000_3527405426714300084_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=104&_nc_ohc=vUwf2prfPEgAX-MesHV&tp=1&oh=bbd62000cb2b6b7f63f53de3dd331dfd&oe=6033A3D5"
+            },
+            {
+                "config_height": 1333,
+                "config_width": 750,
+                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/e35/148289395_2829527667268000_3527405426714300084_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=104&_nc_ohc=vUwf2prfPEgAX-MesHV&tp=1&oh=c6b42472a6a4cf507e25847ac5019a71&oe=60338A4D"
+            },
+            {
+                "config_height": 1920,
+                "config_width": 1080,
+                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/e35/148289395_2829527667268000_3527405426714300084_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=104&_nc_ohc=vUwf2prfPEgAX-MesHV&tp=1&oh=c6b42472a6a4cf507e25847ac5019a71&oe=60338A4D"
+            }
+        ],
+        "display_url": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/e35/148289395_2829527667268000_3527405426714300084_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=104&_nc_ohc=vUwf2prfPEgAX-MesHV&tp=1&oh=c6b42472a6a4cf507e25847ac5019a71&oe=60338A4D",
+        "edge_liked_by": {
+            "count": 13
+        },
+        "edge_media_preview_like": {
+            "count": 13,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "\u201cWhen you catch somebody in a fraud, you\u2019re allowed to go by very different rules.\u201d - Donald trump inciting violent insurrection that killed 7 people \n\nTW : hate speech, violence, death \n\u2022 \nI highly encourage anyone who can stomach watching how the #insurrection played out to view this 13 minute presentation. Jamie Raskin, lead impeachment manager, showed This clip this morning to provide clear evidence of trump\u2019s criminal actions on January 6th. Every American needs to be aware of what exactly happened that day. I will warn you that at 9:30 seconds in, #ashlibabbit \u2018s death is shown. It\u2019s very brief so easy to skip over. I found this from a user-created clip on @cspan website. I\u2019m too disheartened to add anything of more value than - this can never happen again, #impeachment #impeachment #trump #impeachtrump #insurrection #coupdetat #maga #january6th #cnn #americanpolitics #government"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0,
+            "edges": [],
+            "page_info": {
+                "end_cursor": null,
+                "has_next_page": false
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "encoding_status": null,
+        "fact_check_information": null,
+        "fact_check_overall_rating": null,
+        "gating_info": null,
+        "has_ranked_comments": false,
+        "id": "2505670715290733418",
+        "is_ad": false,
+        "is_published": true,
+        "is_video": true,
+        "location": null,
+        "media_preview": "ABcq5mir39m3P/PNv0/xo/s25/55n9P8aAKNFXf7OuM42HPpxn+dFAHSEuskj/MVwBxnjABO3sSf0rJW9knbDYTzCM8HHHQe2e9NXV9rF1TBbr85x+WMVVF3GMDyzgHP3z1/KlYDpLWFkl3sAvykd/UYHPp/Kiska4w/gz9XJ/pRVLQRhUUUUhhRRRQB/9k=",
+        "owner": {
+            "blocked_by_viewer": false,
+            "followed_by_viewer": false,
+            "full_name": "Monique McKenna",
+            "has_blocked_viewer": false,
+            "id": "177646201",
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-19/s150x150/124333528_1250498355344436_4552216091042655211_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=8g5NrVfbg_gAX8gOI61&tp=1&oh=8eec6dbfcaca1fd8df9a808cb21bf963&oe=605CB61F",
+            "requested_by_viewer": false,
+            "username": "intothemystic12"
+        },
+        "product_type": "igtv",
+        "shortcode": "CLF7j1tAMtq",
+        "taken_at_timestamp": 1612919838,
+        "thumbnail_resources": [
+            {
+                "config_height": 266,
+                "config_width": 150,
+                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/e35/p150x150/148289395_2829527667268000_3527405426714300084_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=104&_nc_ohc=vUwf2prfPEgAX-MesHV&tp=1&oh=433c82a9c8c67073b2e0172f9b876841&oe=603373E2"
+            },
+            {
+                "config_height": 426,
+                "config_width": 240,
+                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/e35/p240x240/148289395_2829527667268000_3527405426714300084_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=104&_nc_ohc=vUwf2prfPEgAX-MesHV&tp=1&oh=2169d31aeef19e387bf2f1f5ca72e6d5&oe=6033A06A"
+            },
+            {
+                "config_height": 568,
+                "config_width": 320,
+                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/e35/p320x320/148289395_2829527667268000_3527405426714300084_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=104&_nc_ohc=vUwf2prfPEgAX-MesHV&tp=1&oh=3e3941c92802072a8ece95ea347ebee6&oe=6033B277"
+            },
+            {
+                "config_height": 853,
+                "config_width": 480,
+                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/e35/p480x480/148289395_2829527667268000_3527405426714300084_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=104&_nc_ohc=vUwf2prfPEgAX-MesHV&tp=1&oh=7eed5573a1bf9862138e1e8da51ae486&oe=603388B5"
+            },
+            {
+                "config_height": 1137,
+                "config_width": 640,
+                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/sh0.08/e35/p640x640/148289395_2829527667268000_3527405426714300084_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=104&_nc_ohc=vUwf2prfPEgAX-MesHV&tp=1&oh=bbd62000cb2b6b7f63f53de3dd331dfd&oe=6033A3D5"
+            }
+        ],
+        "thumbnail_src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.280.720.720a/s640x640/148289395_2829527667268000_3527405426714300084_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=104&_nc_ohc=vUwf2prfPEgAX-MesHV&tp=1&oh=78d373d14166c87d4680b22b7394e3fd&oe=6033C708",
+        "title": "January 6th #insurrection play by play",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNGZiZTc3YmQ1YmQ3NGM5NWFkNzU2NDhjOThjNjNjODkyNTA1NjcwNzE1MjkwNzMzNDE4In0sInNpZ25hdHVyZSI6IiJ9",
+        "video_duration": 796.9,
+        "video_url": "https://scontent-hkg4-1.cdninstagram.com/v/t50.2886-16/10000000_1048602875662587_3177331670868859295_n.mp4?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=103&_nc_ohc=kcIydDDncK4AX-oPveC&oe=6033B4D3&oh=27ea2de6786175bd2aa4eebaf97b6782",
+        "video_view_count": 236,
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}

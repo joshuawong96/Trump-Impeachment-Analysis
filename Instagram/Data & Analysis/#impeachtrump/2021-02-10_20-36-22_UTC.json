@@ -1,0 +1,138 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.6.1"
+    },
+    "node": {
+        "__typename": "GraphVideo",
+        "accessibility_caption": null,
+        "caption_is_edited": false,
+        "commenting_disabled_for_viewer": false,
+        "comments_disabled": false,
+        "dash_info": {
+            "is_dash_eligible": false,
+            "number_of_qualities": 0,
+            "video_dash_manifest": null
+        },
+        "dimensions": {
+            "height": 937,
+            "width": 750
+        },
+        "display_resources": [
+            {
+                "config_height": 800,
+                "config_width": 640,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/p640x640/148635161_551686462419757_9145470802614804696_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=101&_nc_ohc=OwlOsVkRqQgAX_2ZLCY&tp=1&oh=ae5e912cda2c54b80ae7a84dc044d5b5&oe=60339836"
+            },
+            {
+                "config_height": 937,
+                "config_width": 750,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/148635161_551686462419757_9145470802614804696_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=101&_nc_ohc=OwlOsVkRqQgAX_2ZLCY&tp=1&oh=45f9f5e8823b199ceaa12123b419d207&oe=603373E0"
+            },
+            {
+                "config_height": 1350,
+                "config_width": 1080,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/148635161_551686462419757_9145470802614804696_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=101&_nc_ohc=OwlOsVkRqQgAX_2ZLCY&tp=1&oh=45f9f5e8823b199ceaa12123b419d207&oe=603373E0"
+            }
+        ],
+        "display_url": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/148635161_551686462419757_9145470802614804696_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=101&_nc_ohc=OwlOsVkRqQgAX_2ZLCY&tp=1&oh=45f9f5e8823b199ceaa12123b419d207&oe=603373E0",
+        "edge_liked_by": {
+            "count": 22
+        },
+        "edge_media_preview_like": {
+            "count": 22,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Let\u2019s wrap this shit up! \ud83d\ude24 #impeachtrump"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0,
+            "edges": [],
+            "page_info": {
+                "end_cursor": null,
+                "has_next_page": false
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "encoding_status": null,
+        "fact_check_information": null,
+        "fact_check_overall_rating": null,
+        "gating_info": null,
+        "has_ranked_comments": false,
+        "id": "2506257945937285824",
+        "is_ad": false,
+        "is_published": true,
+        "is_video": true,
+        "location": null,
+        "media_preview": "ACEqpsPnyWKrnnnoPpUh2ySEc5ztyrcDoM4x+JGfxqP7XGrHKrIOCD7+hyen4VG12rHIRRzk4yOfwOP89K3ipOzTW3VryE3vobH9nCMbxIzbT0J4PNQRARys6/eLBc+gwCfzqnHMZGdl4BwAM9P059e1PI8ofJyysx59NoPP9PfpxWU3zPe/Tp38gje2uhd+3f7R/IUVz3z+jfl/9aiosVcekeBhl3enOP6U5VIJ2gcc8nOB/WpRGOfY+n/16VcKwPHDD09RTshEZiaT+Hn1APP9Pyq7aQFhklRtGMHg59/pXTNnNc/eXMcZaGRSSHJB478/XvilYC7uf++n5/8A16Ky/MH/ADwP+f8AgNFSURpaPziN+T7f4GlNlJkfJtI5+ZgP8Ky/OkY/MzH6kmp1UHqM1ZJ0s2qqhK/LkdfmBH4dCazcLeTNMe2Bx9Oo/wAaqxovoPyq6nETkcEAfzFJjRY2/wC03/fRoqxgUVBR/9k=",
+        "owner": {
+            "blocked_by_viewer": false,
+            "followed_by_viewer": false,
+            "full_name": "Preston Lindsay, M.S.,Ph.D.(c)",
+            "has_blocked_viewer": false,
+            "id": "178960878",
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-19/s150x150/106042416_2618409805153838_4916345549750463565_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=xQj-n3zebHMAX9FoOX6&tp=1&oh=9d970a3ed2730b5957dde34207ac81d2&oe=605BF7FD",
+            "requested_by_viewer": false,
+            "username": "prestonlindsay"
+        },
+        "product_type": "feed",
+        "shortcode": "CLIBFK3F5LA",
+        "taken_at_timestamp": 1612989382,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/c0.90.720.720a/s150x150/148635161_551686462419757_9145470802614804696_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=101&_nc_ohc=OwlOsVkRqQgAX_2ZLCY&tp=1&oh=2758b5ffed4b6dcec80e231eda0c173c&oe=60336507"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/c0.90.720.720a/s240x240/148635161_551686462419757_9145470802614804696_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=101&_nc_ohc=OwlOsVkRqQgAX_2ZLCY&tp=1&oh=95b2c91e02d9639a819dfa33e1b7c1ac&oe=6033C5C1"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/c0.90.720.720a/s320x320/148635161_551686462419757_9145470802614804696_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=101&_nc_ohc=OwlOsVkRqQgAX_2ZLCY&tp=1&oh=3ab3a91326fbd721381588be5df35157&oe=60337CBF"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/c0.90.720.720a/s480x480/148635161_551686462419757_9145470802614804696_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=101&_nc_ohc=OwlOsVkRqQgAX_2ZLCY&tp=1&oh=dbe52419d9ec6f02146dcfc6b135cc5c&oe=6033653A"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.90.720.720a/s640x640/148635161_551686462419757_9145470802614804696_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=101&_nc_ohc=OwlOsVkRqQgAX_2ZLCY&tp=1&oh=1289e64f6def1ef534cea8ca4c53902d&oe=6033F333"
+            }
+        ],
+        "thumbnail_src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.90.720.720a/s640x640/148635161_551686462419757_9145470802614804696_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=101&_nc_ohc=OwlOsVkRqQgAX_2ZLCY&tp=1&oh=1289e64f6def1ef534cea8ca4c53902d&oe=6033F333",
+        "title": "",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNTA0YzgyNzVlYjVlNDg4N2E2YzUyMTA1Y2IwYjI2ZDkyNTA2MjU3OTQ1OTM3Mjg1ODI0In0sInNpZ25hdHVyZSI6IiJ9",
+        "video_duration": 6.0,
+        "video_url": "https://scontent-hkg4-1.cdninstagram.com/v/t50.2886-16/147788435_1397620863958538_6559328399260154836_n.mp4?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=BtBFOjaoY_QAX81FBq3&oe=6033E509&oh=3fb117035ef3f84d24a374bef11f1adf",
+        "video_view_count": 146,
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}

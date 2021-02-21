@@ -1,0 +1,138 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.6.1"
+    },
+    "node": {
+        "__typename": "GraphVideo",
+        "accessibility_caption": null,
+        "caption_is_edited": false,
+        "commenting_disabled_for_viewer": false,
+        "comments_disabled": false,
+        "dash_info": {
+            "is_dash_eligible": false,
+            "number_of_qualities": 0,
+            "video_dash_manifest": null
+        },
+        "dimensions": {
+            "height": 995,
+            "width": 640
+        },
+        "display_resources": [
+            {
+                "config_height": 995,
+                "config_width": 640,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/138678233_148021050295734_6081737425933859554_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=106&_nc_ohc=yHcr6GsMVaQAX8MClri&tp=1&oh=3946bd6a2a2aeb7f9ea5e23de707c8af&oe=603400F0"
+            },
+            {
+                "config_height": 1166,
+                "config_width": 750,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/138678233_148021050295734_6081737425933859554_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=106&_nc_ohc=yHcr6GsMVaQAX8MClri&tp=1&oh=3946bd6a2a2aeb7f9ea5e23de707c8af&oe=603400F0"
+            },
+            {
+                "config_height": 1680,
+                "config_width": 1080,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/138678233_148021050295734_6081737425933859554_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=106&_nc_ohc=yHcr6GsMVaQAX8MClri&tp=1&oh=3946bd6a2a2aeb7f9ea5e23de707c8af&oe=603400F0"
+            }
+        ],
+        "display_url": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/138678233_148021050295734_6081737425933859554_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=106&_nc_ohc=yHcr6GsMVaQAX8MClri&tp=1&oh=3946bd6a2a2aeb7f9ea5e23de707c8af&oe=603400F0",
+        "edge_liked_by": {
+            "count": 3
+        },
+        "edge_media_preview_like": {
+            "count": 3,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "#DLTVPolitcs #DLTVNews #TrumpImpeachment #TrumpImpeached #TrumpImpeached2021 #TrumpImpeachedAgain"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0,
+            "edges": [],
+            "page_info": {
+                "end_cursor": null,
+                "has_next_page": false
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "encoding_status": null,
+        "fact_check_information": null,
+        "fact_check_overall_rating": null,
+        "gating_info": null,
+        "has_ranked_comments": false,
+        "id": "2486716655675907233",
+        "is_ad": false,
+        "is_published": true,
+        "is_video": true,
+        "location": null,
+        "media_preview": "ABsq5/tTglIcfiDV1RG0fAy2Mk89v05oux2KTLtPNbMN0sKCMru2jqOh9D+VZLcPx0qYTugwpwB7VLb0aKjbW5VcAHj8frSqxAI9f8avfYZhEcIzMxGMDIwO/HrVdLO4kGVjYj1x+H86ogrjg1KetWBps/V1KDuT0/8A11FICrEelS9di15mtiTIOHBXOP3oGPUjnj39aFEq54cAkkATAdfx6k8n+tXti+g/Kl2L6D8qRsUmE3Q78HsZV6dMfe+vr9KhazbPEZH1Zf8AGtLaD1A/KjAphc//2Q==",
+        "owner": {
+            "blocked_by_viewer": false,
+            "followed_by_viewer": false,
+            "full_name": "Dave Life TV",
+            "has_blocked_viewer": false,
+            "id": "10151482983",
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-19/s150x150/123942536_798187604334654_5417813077071942344_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=2USymQTK6YYAX8gQ_tU&tp=1&oh=b3f023d9049e2372d3f56ea1a82a5c0e&oe=605BCA0D",
+            "requested_by_viewer": false,
+            "username": "davelifetv"
+        },
+        "product_type": "igtv",
+        "shortcode": "CKCl5-GnByh",
+        "taken_at_timestamp": 1610659796,
+        "thumbnail_resources": [
+            {
+                "config_height": 233,
+                "config_width": 150,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/p150x150/138678233_148021050295734_6081737425933859554_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=106&_nc_ohc=yHcr6GsMVaQAX8MClri&tp=1&oh=be3852bfe645ded407681c331294c5c6&oe=6033CC81"
+            },
+            {
+                "config_height": 373,
+                "config_width": 240,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/p240x240/138678233_148021050295734_6081737425933859554_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=106&_nc_ohc=yHcr6GsMVaQAX8MClri&tp=1&oh=d8d8ff4f11015ef6bb862ef8a24da205&oe=60343A47"
+            },
+            {
+                "config_height": 497,
+                "config_width": 320,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/p320x320/138678233_148021050295734_6081737425933859554_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=106&_nc_ohc=yHcr6GsMVaQAX8MClri&tp=1&oh=f0ece77adc3ff0fb2883f4b8a62688cc&oe=6033F2B9"
+            },
+            {
+                "config_height": 746,
+                "config_width": 480,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/p480x480/138678233_148021050295734_6081737425933859554_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=106&_nc_ohc=yHcr6GsMVaQAX8MClri&tp=1&oh=1df6d7548b97ddc0f7db59bc3512abaf&oe=6033DFC0"
+            },
+            {
+                "config_height": 995,
+                "config_width": 640,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/138678233_148021050295734_6081737425933859554_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=106&_nc_ohc=yHcr6GsMVaQAX8MClri&tp=1&oh=3946bd6a2a2aeb7f9ea5e23de707c8af&oe=603400F0"
+            }
+        ],
+        "thumbnail_src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/c0.150.540.540a/138678233_148021050295734_6081737425933859554_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=106&_nc_ohc=yHcr6GsMVaQAX8MClri&tp=1&oh=453894217f134b286f574a49dabc587c&oe=6033ED2B",
+        "title": "Nancy Pelosi Announces House Impeaches Trump...Again!",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNzY0MjkwNWJkZWYwNDZiYWJhMzBlMmQwOTkwYWFkNDQyNDg2NzE2NjU1Njc1OTA3MjMzIn0sInNpZ25hdHVyZSI6IiJ9",
+        "video_duration": 97.02,
+        "video_url": "https://scontent-hkg4-2.cdninstagram.com/v/t50.2886-16/10000000_2690378374420523_5347785114167545616_n.mp4?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=111&_nc_ohc=gGKGt_huHrsAX_m4N1N&oe=60340AC3&oh=b45add4a13a608009c3f52f15387a040",
+        "video_view_count": 30,
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}

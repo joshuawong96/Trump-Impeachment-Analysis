@@ -1,0 +1,138 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.6.1"
+    },
+    "node": {
+        "__typename": "GraphVideo",
+        "accessibility_caption": null,
+        "caption_is_edited": false,
+        "commenting_disabled_for_viewer": false,
+        "comments_disabled": false,
+        "dash_info": {
+            "is_dash_eligible": false,
+            "number_of_qualities": 0,
+            "video_dash_manifest": null
+        },
+        "dimensions": {
+            "height": 1333,
+            "width": 750
+        },
+        "display_resources": [
+            {
+                "config_height": 1137,
+                "config_width": 640,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/p640x640/138948161_180461226780643_3836182297814443599_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=107&_nc_ohc=beYrZSl-ErQAX_cs8Zf&tp=1&oh=1e30c5350bf1835730d7b03c82038eb7&oe=6033C68B"
+            },
+            {
+                "config_height": 1333,
+                "config_width": 750,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/138948161_180461226780643_3836182297814443599_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=107&_nc_ohc=beYrZSl-ErQAX_cs8Zf&tp=1&oh=ee2a0f44f7c232bab808eda8bd94a552&oe=603443E1"
+            },
+            {
+                "config_height": 1920,
+                "config_width": 1080,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/138948161_180461226780643_3836182297814443599_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=107&_nc_ohc=beYrZSl-ErQAX_cs8Zf&tp=1&oh=ee2a0f44f7c232bab808eda8bd94a552&oe=603443E1"
+            }
+        ],
+        "display_url": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/138948161_180461226780643_3836182297814443599_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=107&_nc_ohc=beYrZSl-ErQAX_cs8Zf&tp=1&oh=ee2a0f44f7c232bab808eda8bd94a552&oe=603443E1",
+        "edge_liked_by": {
+            "count": 4
+        },
+        "edge_media_preview_like": {
+            "count": 4,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "This week, @Rasheedah_T & I sound off on the #Insurrection, #Impeachment & #Inauguration \u2014 this was a LONG week for America. \ud83d\ude33 #CapitolRiot #TrumpImpeachment\n\nPlease share, like & follow @RCCommsDC !"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0,
+            "edges": [],
+            "page_info": {
+                "end_cursor": null,
+                "has_next_page": false
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "encoding_status": null,
+        "fact_check_information": null,
+        "fact_check_overall_rating": null,
+        "gating_info": null,
+        "has_ranked_comments": false,
+        "id": "2487255018458996487",
+        "is_ad": false,
+        "is_published": true,
+        "is_video": true,
+        "location": null,
+        "media_preview": "ABcq5mipyVB7e/HT/Gk3L7flSuXy+f5f5kNFTjaTgYP4YopXKUL7M1oEidtvcLknj72Mk/RakZ0cIQBhsE4UdOh9+fpWbE5JOX8vHyj5c5Bzn8qi86QYw3C8Djt+VO2rZF9Ei5dY3EoMIDgHHA9vXGQcUVTErscEkj6fWilLy/E3p7P1/wAivuPqaNx9T+dNoq7nLYduPqaKbRSGf//Z",
+        "owner": {
+            "blocked_by_viewer": false,
+            "followed_by_viewer": false,
+            "full_name": "Calvin Dark",
+            "has_blocked_viewer": false,
+            "id": "269551945",
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-19/s150x150/149790629_413735236358200_5428158773932857677_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=EHGib2HkR9kAX_l1YMs&tp=1&oh=3db810e4d5d1b18db90fae53b30d4a09&oe=605CB41A",
+            "requested_by_viewer": false,
+            "username": "talesdarkside"
+        },
+        "product_type": "igtv",
+        "shortcode": "CKEgULhDl8H",
+        "taken_at_timestamp": 1610723997,
+        "thumbnail_resources": [
+            {
+                "config_height": 266,
+                "config_width": 150,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/p150x150/138948161_180461226780643_3836182297814443599_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=107&_nc_ohc=beYrZSl-ErQAX_cs8Zf&tp=1&oh=dc2ef7e22b46f0dc8ad50e7e817a2344&oe=60344910"
+            },
+            {
+                "config_height": 426,
+                "config_width": 240,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/p240x240/138948161_180461226780643_3836182297814443599_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=107&_nc_ohc=beYrZSl-ErQAX_cs8Zf&tp=1&oh=9f6f20655b98b3330bd6e65ac0463ccb&oe=6033CF4A"
+            },
+            {
+                "config_height": 568,
+                "config_width": 320,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/p320x320/138948161_180461226780643_3836182297814443599_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=107&_nc_ohc=beYrZSl-ErQAX_cs8Zf&tp=1&oh=a677e5393055c2e4b998a0f774867a94&oe=603409F8"
+            },
+            {
+                "config_height": 853,
+                "config_width": 480,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/p480x480/138948161_180461226780643_3836182297814443599_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=107&_nc_ohc=beYrZSl-ErQAX_cs8Zf&tp=1&oh=47fef86b6378d292cfac411700f296a9&oe=60341131"
+            },
+            {
+                "config_height": 1137,
+                "config_width": 640,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/p640x640/138948161_180461226780643_3836182297814443599_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=107&_nc_ohc=beYrZSl-ErQAX_cs8Zf&tp=1&oh=1e30c5350bf1835730d7b03c82038eb7&oe=6033C68B"
+            }
+        ],
+        "thumbnail_src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.280.720.720a/s640x640/138948161_180461226780643_3836182297814443599_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=107&_nc_ohc=beYrZSl-ErQAX_cs8Zf&tp=1&oh=9f575c1e96d90c68316acf848fbe0f0e&oe=6033C770",
+        "title": "RC TOP THREE!",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNGY1YWMxMmMwZDZjNDAwZDg5MjQ5MzdmZmNkY2RhYWEyNDg3MjU1MDE4NDU4OTk2NDg3In0sInNpZ25hdHVyZSI6IiJ9",
+        "video_duration": 296.466,
+        "video_url": "https://scontent-hkg4-2.cdninstagram.com/v/t50.2886-16/10000000_100955478617867_670355152065181537_n.mp4?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=111&_nc_ohc=qsx1zuZo4wkAX8wgdh5&oe=6033C7F1&oh=45fc2e446d2490131b6138cbdd2b3b75",
+        "video_view_count": 45,
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}

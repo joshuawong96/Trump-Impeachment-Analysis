@@ -1,0 +1,132 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.6.1"
+    },
+    "node": {
+        "__typename": "GraphImage",
+        "accessibility_caption": "Photo by Thomas von Gru\u0308nigen in Capitol Hill, Washington, D.C.. May be an image of 1 person and camera.",
+        "caption_is_edited": false,
+        "commenting_disabled_for_viewer": false,
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_resources": [
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/148872843_1389906551361964_8748821118609014957_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=104&_nc_ohc=1l22ibOrs4QAX_32BPt&tp=1&oh=3bb8346cae61ec7f41f443df9a3219e7&oe=605A3E7E"
+            },
+            {
+                "config_height": 750,
+                "config_width": 750,
+                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s750x750/148872843_1389906551361964_8748821118609014957_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=104&_nc_ohc=1l22ibOrs4QAX_32BPt&tp=1&oh=eb3fee05663754339877200533479b65&oe=605B43C5"
+            },
+            {
+                "config_height": 1080,
+                "config_width": 1080,
+                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/148872843_1389906551361964_8748821118609014957_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=104&_nc_ohc=1l22ibOrs4QAX_32BPt&tp=1&oh=69f7fde64b2ffd7343568a8baf18a2e7&oe=605AB795"
+            }
+        ],
+        "display_url": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/148872843_1389906551361964_8748821118609014957_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=104&_nc_ohc=1l22ibOrs4QAX_32BPt&tp=1&oh=69f7fde64b2ffd7343568a8baf18a2e7&oe=605AB795",
+        "edge_liked_by": {
+            "count": 80
+        },
+        "edge_media_preview_like": {
+            "count": 80,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "#trumpimpeachment Runde Zwei \n\ud83c\udfa5 @markuszeffler"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 6,
+            "edges": [],
+            "page_info": {
+                "end_cursor": "",
+                "has_next_page": true
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "fact_check_information": null,
+        "fact_check_overall_rating": null,
+        "gating_info": null,
+        "has_ranked_comments": false,
+        "id": "2506032652144312017",
+        "is_ad": false,
+        "is_video": false,
+        "location": {
+            "address_json": "{\"street_address\": \"\", \"zip_code\": \"\", \"city_name\": \"\", \"region_name\": \"\", \"country_code\": \"\", \"exact_city_match\": false, \"exact_region_match\": false, \"exact_country_match\": false}",
+            "has_public_page": true,
+            "id": "769130002",
+            "name": "Capitol Hill, Washington, D.C.",
+            "slug": "capitol-hill-washington-dc"
+        },
+        "media_preview": "ACoq0S7eYeeBxj6/1pXlcSgDpkD86owXPml2b72MjHsD+fIFNW6Lo0rEBkx07nHH60mml8x6fgT3UsfnBncLtyvHPoegyeDWZdSROpCEM2c5O7PuQDgf1NZwyTznknJ6frSs2GweemD3+ue+aQFq3thIfmZYx6kjr9M/rVr+zj/z2X9P8aznBBwO3Pt+VWsxnnZj6Dj8OaQFxGEe9ABtj4z3brkmqXC27bvlLldoPfA5I/Oqkk29i2B8xJ6nv+VK8skoUPjC52jAHWrb0sIZnJwvNDRuxzjke4qNThq6K0bMPGMj29/8KljMhY3PapNjjg8YrVefPQ8N0I9Qak8lX+b+9z+dFhnOAY579vb3/wAKb0571IetRvTEOaInleQBn3I9fw71etblYkO4ZJ7+1Vo/vLVKX7x+tIDSa8QAAdjn15p41FvX9KykFMNOwXP/2Q==",
+        "owner": {
+            "blocked_by_viewer": false,
+            "followed_by_viewer": false,
+            "full_name": "Thomas von Gru\u0308nigen",
+            "has_blocked_viewer": false,
+            "id": "7119405918",
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-19/s150x150/77257402_453964495546322_506416673293598720_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=9tbUpZq3KV0AX9XIWF_&tp=1&oh=c7a48fe1c9205b9c7d79bb694184ad8b&oe=605C1804",
+            "requested_by_viewer": false,
+            "username": "tvongruenigen"
+        },
+        "shortcode": "CLHN2tql37R",
+        "taken_at_timestamp": 1612962393,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/e35/s150x150/148872843_1389906551361964_8748821118609014957_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=104&_nc_ohc=1l22ibOrs4QAX_32BPt&tp=1&oh=f307f6cde99be583565de3dee0c2df36&oe=605C9C09"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/e35/s240x240/148872843_1389906551361964_8748821118609014957_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=104&_nc_ohc=1l22ibOrs4QAX_32BPt&tp=1&oh=b839f1795bb75d63a56cc29230d96f86&oe=605C2DC1"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/e35/s320x320/148872843_1389906551361964_8748821118609014957_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=104&_nc_ohc=1l22ibOrs4QAX_32BPt&tp=1&oh=314f5017cddc0f0941cd0e11cf674a30&oe=605AF4A0"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/e35/s480x480/148872843_1389906551361964_8748821118609014957_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=104&_nc_ohc=1l22ibOrs4QAX_32BPt&tp=1&oh=1e3a86227be06c58d5339e859af0f934&oe=605BFADE"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/148872843_1389906551361964_8748821118609014957_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=104&_nc_ohc=1l22ibOrs4QAX_32BPt&tp=1&oh=3bb8346cae61ec7f41f443df9a3219e7&oe=605A3E7E"
+            }
+        ],
+        "thumbnail_src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/148872843_1389906551361964_8748821118609014957_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=104&_nc_ohc=1l22ibOrs4QAX_32BPt&tp=1&oh=3bb8346cae61ec7f41f443df9a3219e7&oe=605A3E7E",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiMThkODc4ZGQ4MWJkNDlhOGE3YWNjNDVjMDdjYzdiY2UyNTA2MDMyNjUyMTQ0MzEyMDE3In0sInNpZ25hdHVyZSI6IiJ9",
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}

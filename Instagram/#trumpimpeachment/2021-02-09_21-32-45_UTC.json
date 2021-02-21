@@ -1,0 +1,138 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.6.1"
+    },
+    "node": {
+        "__typename": "GraphVideo",
+        "accessibility_caption": null,
+        "caption_is_edited": false,
+        "commenting_disabled_for_viewer": false,
+        "comments_disabled": false,
+        "dash_info": {
+            "is_dash_eligible": false,
+            "number_of_qualities": 0,
+            "video_dash_manifest": null
+        },
+        "dimensions": {
+            "height": 1920,
+            "width": 1080
+        },
+        "display_resources": [
+            {
+                "config_height": 1137,
+                "config_width": 640,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/p640x640/147607171_268856221344236_3130845343804156262_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=108&_nc_ohc=FgJLhxbDgTkAX_Ufe-A&tp=1&oh=b598f7a5983c5b03975146ddd65fa35d&oe=6033CD4A"
+            },
+            {
+                "config_height": 1333,
+                "config_width": 750,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/p750x750/147607171_268856221344236_3130845343804156262_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=108&_nc_ohc=FgJLhxbDgTkAX_Ufe-A&tp=1&oh=a16dbd160986cf1bd9fcf38b14179ec0&oe=6033C68E"
+            },
+            {
+                "config_height": 1920,
+                "config_width": 1080,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/fr/e15/p1080x1080/147607171_268856221344236_3130845343804156262_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=108&_nc_ohc=FgJLhxbDgTkAX_Ufe-A&tp=1&oh=2f08318552b10b292d10d0a5df266ee7&oe=6033CC42"
+            }
+        ],
+        "display_url": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/fr/e15/p1080x1080/147607171_268856221344236_3130845343804156262_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=108&_nc_ohc=FgJLhxbDgTkAX_Ufe-A&tp=1&oh=2f08318552b10b292d10d0a5df266ee7&oe=6033CC42",
+        "edge_liked_by": {
+            "count": 32
+        },
+        "edge_media_preview_like": {
+            "count": 32,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "U.S. Rep. Jamie Raskin @repraskin of Maryland delivered an emotional account of the Jan. 6th #Capitolinsurrection at Trump's second #impeachment trial today. Hear how his daughter and son-in-law were visiting him at the Capitol on that day, a day after they buried his son, who committed suicide in December.\n.\n.\n.\n#Trump #trumpimpeachment #Senate #impeachmentrial"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 5,
+            "edges": [],
+            "page_info": {
+                "end_cursor": "",
+                "has_next_page": true
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "encoding_status": null,
+        "fact_check_information": null,
+        "fact_check_overall_rating": null,
+        "gating_info": null,
+        "has_ranked_comments": false,
+        "id": "2505562315058681958",
+        "is_ad": false,
+        "is_published": true,
+        "is_video": true,
+        "location": null,
+        "media_preview": "ABcqj61J5Y/GsNc5607cw5yc/T+tIo1mXbRWV5rg9c/gKKBCIjOMjH41eEW6LaSA2PcDOe/Hf1qO0yUPzBeSeSOeMYxkfyzkdaVpi64wee46+38fY8g+tMV2m9/uKJVh1GAP8/rRT5d+fmLEf7X+cdzRQMu/ZYj2/U0rWsXTHT3NTClPWgOhXFtGOcfnk0VPRQI//9k=",
+        "owner": {
+            "blocked_by_viewer": false,
+            "followed_by_viewer": false,
+            "full_name": "CGTN America News",
+            "has_blocked_viewer": false,
+            "id": "438621890",
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-19/s150x150/31203730_2064475097157556_1782867652151083008_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=EGkk2lQzJxYAX90jozv&tp=1&oh=16191923fca2a38647c5a32dd291654e&oe=605B7229",
+            "requested_by_viewer": false,
+            "username": "cgtnamerica"
+        },
+        "product_type": "igtv",
+        "shortcode": "CLFi6aHrZhm",
+        "taken_at_timestamp": 1612906365,
+        "thumbnail_resources": [
+            {
+                "config_height": 266,
+                "config_width": 150,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e15/p150x150/147607171_268856221344236_3130845343804156262_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=108&_nc_ohc=FgJLhxbDgTkAX_Ufe-A&tp=1&oh=6a09ef66c920cc9d3b34b262b23d0a0f&oe=6033AA75"
+            },
+            {
+                "config_height": 426,
+                "config_width": 240,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e15/p240x240/147607171_268856221344236_3130845343804156262_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=108&_nc_ohc=FgJLhxbDgTkAX_Ufe-A&tp=1&oh=9f859748d603bad6c2abd786880c6cda&oe=603361B3"
+            },
+            {
+                "config_height": 568,
+                "config_width": 320,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e15/p320x320/147607171_268856221344236_3130845343804156262_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=108&_nc_ohc=FgJLhxbDgTkAX_Ufe-A&tp=1&oh=fcdd3f85f937bf27378bea111a6d5eff&oe=6033D34D"
+            },
+            {
+                "config_height": 853,
+                "config_width": 480,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e15/p480x480/147607171_268856221344236_3130845343804156262_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=108&_nc_ohc=FgJLhxbDgTkAX_Ufe-A&tp=1&oh=16aeba15ae2dc008f4acf5307ed52c51&oe=6033694C"
+            },
+            {
+                "config_height": 1137,
+                "config_width": 640,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/p640x640/147607171_268856221344236_3130845343804156262_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=108&_nc_ohc=FgJLhxbDgTkAX_Ufe-A&tp=1&oh=b598f7a5983c5b03975146ddd65fa35d&oe=6033CD4A"
+            }
+        ],
+        "thumbnail_src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.420.1080.1080a/s640x640/147607171_268856221344236_3130845343804156262_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=108&_nc_ohc=FgJLhxbDgTkAX_Ufe-A&tp=1&oh=92a9cf98096aeae5558feaf33b55ff4b&oe=6033C1B1",
+        "title": "Listen to his account of Jan. 6 at Trump's impeachment trial",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiMDJhYmRjNzhlNDcxNGVjMDk2OTY1NTk2MzA1YjI2MGEyNTA1NTYyMzE1MDU4NjgxOTU4In0sInNpZ25hdHVyZSI6IiJ9",
+        "video_duration": 184.599,
+        "video_url": "https://scontent-hkg4-2.cdninstagram.com/v/t50.2886-16/10000000_414091486368851_6772317938468325121_n.mp4?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=111&_nc_ohc=PlijmT9K-aQAX9865t6&oe=6033637B&oh=f9299fc17b3b94c4b1aa90542600aea8",
+        "video_view_count": 380,
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}

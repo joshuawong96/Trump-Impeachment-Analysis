@@ -1,0 +1,138 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.6.1"
+    },
+    "node": {
+        "__typename": "GraphVideo",
+        "accessibility_caption": null,
+        "caption_is_edited": false,
+        "commenting_disabled_for_viewer": false,
+        "comments_disabled": false,
+        "dash_info": {
+            "is_dash_eligible": false,
+            "number_of_qualities": 0,
+            "video_dash_manifest": null
+        },
+        "dimensions": {
+            "height": 422,
+            "width": 750
+        },
+        "display_resources": [
+            {
+                "config_height": 360,
+                "config_width": 640,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/147679909_998277637367065_4741367975618478838_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=101&_nc_ohc=ubp7CMxHCrIAX-R-pMD&tp=1&oh=77bf36f5d3e8867848d2b9ad2b598af9&oe=6033B127"
+            },
+            {
+                "config_height": 422,
+                "config_width": 750,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/147679909_998277637367065_4741367975618478838_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=101&_nc_ohc=ubp7CMxHCrIAX-R-pMD&tp=1&oh=a22f67a91aea0d4647bcf9549dafd043&oe=6033DBDD"
+            },
+            {
+                "config_height": 609,
+                "config_width": 1080,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/147679909_998277637367065_4741367975618478838_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=101&_nc_ohc=ubp7CMxHCrIAX-R-pMD&tp=1&oh=a22f67a91aea0d4647bcf9549dafd043&oe=6033DBDD"
+            }
+        ],
+        "display_url": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/147679909_998277637367065_4741367975618478838_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=101&_nc_ohc=ubp7CMxHCrIAX-R-pMD&tp=1&oh=a22f67a91aea0d4647bcf9549dafd043&oe=6033DBDD",
+        "edge_liked_by": {
+            "count": 2
+        },
+        "edge_media_preview_like": {
+            "count": 2,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "If you want to know what's wrong with this country... \n\nThis is the only clip of the House Managers' video aired by @foxandfriends this AM. 9 seconds of a 14 minute video. \n\nThey spent more time showing a local pol who had a cat filter in his Zoom and on migrants being handcuffed. \n\nUnless Fox viewers watch other stations or the trial, they have no idea what's going on. Get thee to: \n\n@morningjoe @maddowshow @allinwithchris @lawrence_odonnell \n\n#TheDumbingOfAmerica \n#TrumpImpeachment"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1,
+            "edges": [],
+            "page_info": {
+                "end_cursor": "",
+                "has_next_page": true
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "encoding_status": null,
+        "fact_check_information": null,
+        "fact_check_overall_rating": null,
+        "gating_info": null,
+        "has_ranked_comments": false,
+        "id": "2506112858956786895",
+        "is_ad": false,
+        "is_published": true,
+        "is_video": true,
+        "location": null,
+        "media_preview": "ACoXjhZQmHAb69uakDId22NfkXd1qrBkxjH+easxMwLIFHKnHBOe+OD/AC5oS7jGmddu7yxjOOvfr6U4yRjGUA3DPU/lUbOAm7aud2CMH0+v6U7cH2DA+Zc8A8Y7dTxRYCWBlaRdoxz6k/zrd/z0rCjAiYN71siXI6H9P8akZy1tfJEgUjOP8atLqgB4BooqrkiNqCn+HOTk8Dr6/WmNqAPGzp06cUUUrjsV3udxyFxiphfN/k0UVLZSR//Z",
+        "owner": {
+            "blocked_by_viewer": false,
+            "followed_by_viewer": false,
+            "full_name": "Steve Zakszewski",
+            "has_blocked_viewer": false,
+            "id": "1439774825",
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-19/s150x150/148764193_125154626091261_5266529519915196864_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=6MtLkqCJ4IsAX-hxkSZ&tp=1&oh=303d074af44e48c8e2a9f0f51af44a16&oe=605B6DD2",
+            "requested_by_viewer": false,
+            "username": "zakszewski"
+        },
+        "product_type": "feed",
+        "shortcode": "CLHgF4FKGzP",
+        "taken_at_timestamp": 1612971970,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/c157.0.406.406a/s150x150/147679909_998277637367065_4741367975618478838_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=101&_nc_ohc=ubp7CMxHCrIAX-R-pMD&tp=1&oh=10806d0ccb3670ecc96622b5ff9445a8&oe=60336C5C"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/c157.0.406.406a/s240x240/147679909_998277637367065_4741367975618478838_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=101&_nc_ohc=ubp7CMxHCrIAX-R-pMD&tp=1&oh=784147b35c05be77b167569dfc33c991&oe=603388DE"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/c157.0.406.406a/s320x320/147679909_998277637367065_4741367975618478838_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=101&_nc_ohc=ubp7CMxHCrIAX-R-pMD&tp=1&oh=d47be3af6efef8fd0341ac2148298833&oe=6033DE24"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/c157.0.406.406a/147679909_998277637367065_4741367975618478838_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=101&_nc_ohc=ubp7CMxHCrIAX-R-pMD&tp=1&oh=e6f4dadd453d571d74f4df0dc452a7bf&oe=6033B609"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/c157.0.406.406a/147679909_998277637367065_4741367975618478838_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=101&_nc_ohc=ubp7CMxHCrIAX-R-pMD&tp=1&oh=e6f4dadd453d571d74f4df0dc452a7bf&oe=6033B609"
+            }
+        ],
+        "thumbnail_src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/c157.0.406.406a/147679909_998277637367065_4741367975618478838_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=101&_nc_ohc=ubp7CMxHCrIAX-R-pMD&tp=1&oh=e6f4dadd453d571d74f4df0dc452a7bf&oe=6033B609",
+        "title": "",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6IjFkMDAzZjkwMzZiNTQ4Zjc5Zjk3M2ZjOTljMjQ0NDEzMjUwNjExMjg1ODk1Njc4Njg5NSJ9LCJzaWduYXR1cmUiOiIifQ==",
+        "video_duration": 10.566,
+        "video_url": "https://scontent-hkg4-2.cdninstagram.com/v/t50.2886-16/147716412_854451002016863_2207358371117542876_n.mp4?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=111&_nc_ohc=4YiSgUkkecsAX9pZObt&oe=6033BB94&oh=4c7945d784fe9a6b9657f287bd635b62",
+        "video_view_count": 58,
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}

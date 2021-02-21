@@ -1,0 +1,126 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.6.1"
+    },
+    "node": {
+        "__typename": "GraphImage",
+        "accessibility_caption": "Photo by Friedrich-Naumann-Stiftung on February 10, 2021. May be an image of 1 person, standing and suit.",
+        "caption_is_edited": false,
+        "commenting_disabled_for_viewer": false,
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 628,
+            "width": 750
+        },
+        "display_resources": [
+            {
+                "config_height": 536,
+                "config_width": 640,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/149169332_186002426607036_3672288428946004032_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=100&_nc_ohc=byrDi8Vd12gAX9FFun2&tp=1&oh=b8070e439bc0516977ef7e3d92df16d9&oe=605C1A48"
+            },
+            {
+                "config_height": 628,
+                "config_width": 750,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/149169332_186002426607036_3672288428946004032_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=100&_nc_ohc=byrDi8Vd12gAX9FFun2&tp=1&oh=5e62453d37e759317bb9d1ad235e138c&oe=605BFEFE"
+            },
+            {
+                "config_height": 904,
+                "config_width": 1080,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/149169332_186002426607036_3672288428946004032_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=100&_nc_ohc=byrDi8Vd12gAX9FFun2&tp=1&oh=5e62453d37e759317bb9d1ad235e138c&oe=605BFEFE"
+            }
+        ],
+        "display_url": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/149169332_186002426607036_3672288428946004032_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=100&_nc_ohc=byrDi8Vd12gAX9FFun2&tp=1&oh=5e62453d37e759317bb9d1ad235e138c&oe=605BFEFE",
+        "edge_liked_by": {
+            "count": 95
+        },
+        "edge_media_preview_like": {
+            "count": 95,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "\ud83c\uddfa\ud83c\uddf8 Donald Trump hat die amerikanischen Demokratie einer schweren Pr\u00fcfung unterzogen. Auch die Republikanische Partei wurde dabei schwer gesch\u00e4digt. Das Amtsenthebungsverfahren k\u00f6nnte die Partei endg\u00fcltig spalten aber auch Wiederherstellen, analysiert Claus Gramckow. \ud83d\udc49 Link in bio.\n\n#usa #demokratie #biden #trump #romney #republikaner #demokraten #impeachment #politik #liberal #politics #democrates #republicans #Impeachtrump #Impeachmenttrump"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0,
+            "edges": [],
+            "page_info": {
+                "end_cursor": null,
+                "has_next_page": false
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "fact_check_information": null,
+        "fact_check_overall_rating": null,
+        "gating_info": null,
+        "has_ranked_comments": false,
+        "id": "2506082300446919329",
+        "is_ad": false,
+        "is_video": false,
+        "location": null,
+        "media_preview": "ACojTT5GYYfknnP9PrWrjg4rAt9rKoxzG2eD1HUEj1yMH14rZurg28e8AE5AGenNIZShd2kAVy6nO4HHXsRjp6VqbeKwJEW3iG3h3KsSOCOM4HtkirOn3rOSkh3YGVJ68dR71SVtxN32NFV5b8KlUcCo2cRq7nHyjPPA6cfmeKxxqVzjpH+R/wAaewrXKERKnPUd8emRzV27uvOt0UD5s8/hx+uazY5WiOUOCRjHY1q2lqzPH5gAWMZI98kj+f6VJRQlkL4z1UbT+HH9KS1YpIO2Tj86jLYZgeoJ/matC3PlpIpDFmzgdu2Prxz6VT1EixfuTDjPR1z78GsXcfWtq8tjJG0gP+rwcevY/lWFUgS9xXVxcAH2FFFAzm7sbZ3A45retokFmrgDceSe/J/+tRRTJGN/qZf9w/yrn1UYFFFNAz//2Q==",
+        "owner": {
+            "blocked_by_viewer": false,
+            "followed_by_viewer": false,
+            "full_name": "Friedrich-Naumann-Stiftung",
+            "has_blocked_viewer": false,
+            "id": "2132459194",
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": true,
+            "profile_pic_url": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-19/s150x150/54446803_393384901241079_3910243659135582208_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=PB664TXDoG0AX-XnPXW&tp=1&oh=dccf426dd15a6b150f8fc639f43729c7&oe=605A2167",
+            "requested_by_viewer": false,
+            "username": "stiftungfuerdiefreiheit"
+        },
+        "shortcode": "CLHZJMQCEqh",
+        "taken_at_timestamp": 1612968337,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/c58.0.603.603a/s150x150/149169332_186002426607036_3672288428946004032_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=100&_nc_ohc=byrDi8Vd12gAX9FFun2&tp=1&oh=2365348961c32c6fefd6b2fb3099112b&oe=605AC708"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/c58.0.603.603a/s240x240/149169332_186002426607036_3672288428946004032_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=100&_nc_ohc=byrDi8Vd12gAX9FFun2&tp=1&oh=de10fdbc2a0792e3203464caa21f2a0a&oe=605A9702"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/c58.0.603.603a/s320x320/149169332_186002426607036_3672288428946004032_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=100&_nc_ohc=byrDi8Vd12gAX9FFun2&tp=1&oh=7c64839300e037eb377c67ca18c61a5f&oe=605B9180"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/c58.0.603.603a/s480x480/149169332_186002426607036_3672288428946004032_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=100&_nc_ohc=byrDi8Vd12gAX9FFun2&tp=1&oh=84edbdb97ebe31c8e1bba6d13910011a&oe=605B4139"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/c58.0.603.603a/149169332_186002426607036_3672288428946004032_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=100&_nc_ohc=byrDi8Vd12gAX9FFun2&tp=1&oh=617bb90e682b104c438ab03741e4754e&oe=605BD97F"
+            }
+        ],
+        "thumbnail_src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/c58.0.603.603a/149169332_186002426607036_3672288428946004032_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=100&_nc_ohc=byrDi8Vd12gAX9FFun2&tp=1&oh=617bb90e682b104c438ab03741e4754e&oe=605BD97F",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNmZhYTQzYWFmMjlmNGM5YzgwNTdmOWUxYTQxOWRkNzAyNTA2MDgyMzAwNDQ2OTE5MzI5In0sInNpZ25hdHVyZSI6IiJ9",
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}

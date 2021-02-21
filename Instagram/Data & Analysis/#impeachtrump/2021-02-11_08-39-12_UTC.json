@@ -1,0 +1,253 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.6.1"
+    },
+    "node": {
+        "__typename": "GraphSidecar",
+        "accessibility_caption": "Photo by Sarah K on February 11, 2021. May be an image of text that says 'hemThal Wallis Weaver @wallisweaver During his rise to power, Hitler attempted a violent coup at one coup point, was arrested and tried. While the sentence should have been life, he was given 5 years and got out in 9 months. He went on to start WWII in which 70-80 million people died Is there a lesson in this for us?'.",
+        "caption_is_edited": true,
+        "commenting_disabled_for_viewer": false,
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1079,
+            "width": 1080
+        },
+        "display_resources": [
+            {
+                "config_height": 639,
+                "config_width": 640,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/148934613_244219100530562_6950750397766287657_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=E8CwvTEYwJEAX_S4O5j&tp=1&oh=d718baa7ddc0f3dcd654e571bed79612&oe=605A706E"
+            },
+            {
+                "config_height": 749,
+                "config_width": 750,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s750x750/148934613_244219100530562_6950750397766287657_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=E8CwvTEYwJEAX_S4O5j&tp=1&oh=c99231b2d20e96bff01ded81651fe2c3&oe=605B472A"
+            },
+            {
+                "config_height": 1079,
+                "config_width": 1080,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/148934613_244219100530562_6950750397766287657_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=E8CwvTEYwJEAX_S4O5j&tp=1&oh=379b8b2c7ab0767c541f98624e2f19b1&oe=605A6E2A"
+            }
+        ],
+        "display_url": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/148934613_244219100530562_6950750397766287657_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=E8CwvTEYwJEAX_S4O5j&tp=1&oh=379b8b2c7ab0767c541f98624e2f19b1&oe=605A6E2A",
+        "edge_liked_by": {
+            "count": 23
+        },
+        "edge_media_preview_like": {
+            "count": 23,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "What is fascism?\n\nFascism is defined as a government structure where one dictator has complete control of the entire country, state, or territory. Anyone who opposes this dictator is suppressed and individual rights are often oppressed. A fascist government might also be called totalitarian.\n\nWhat is a cult?\n\nA cult is a group or movement held together by a shared commitment to a charismatic leader or ideology. It has a belief system that has the answers to all of life\u2019s questions and offers a special solution to be gained only by following the leader\u2019s rules. It requires a high level of commitment from at least some of the members.\n\nHow do cults start up?\n\nThere\u2019s four dimensions to a cultic group that we see across the board.\n\n1. Charismatic leader: The charismatic leader is the originator of the group. Charismatic leaders are people who are great manipulators, they\u2019re charming. They know how to read people. They come along and offer a message that is going to resonate with somebody. \n\n2. Transcendent belief system: Most religions and even political groups are going to have a transcendent belief system, meaning they\u2019re stating how to get to some better place. But what\u2019s different in cultic groups is they have their way to get you there. It\u2019s what I call the recipe for change. In order to be part of the group, you have to go through a transformational process, which they dictate to you and you can\u2019t be there otherwise.\n\n3. Systems of control: They think they\u2019re joining something that\u2019s going to give them purpose and meaning.\n\n4. Systems of influence: Then there\u2019s the more subtle influences, which is the peer pressure. Older members will model for the new members how you\u2019re supposed to behave. Before you know it, you\u2019re so enveloped in this other reality that you don\u2019t look to anything else. You don\u2019t allow yourself to be opened to any other explanations. Your mind has completely closed in on this new worldview. .......................................................................................................... I IMPLORE YOU TO PAY ATTENTION! Do not let history repeat itself again. #impeachtrump #donotforget #callyoursenators #impeachandconvict"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0,
+            "edges": [],
+            "page_info": {
+                "end_cursor": null,
+                "has_next_page": false
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "edge_sidecar_to_children": {
+            "edges": [
+                {
+                    "node": {
+                        "__typename": "GraphImage",
+                        "accessibility_caption": "Photo by Sarah K on February 11, 2021. May be an image of text that says 'hemThal Wallis Weaver @wallisweaver During his rise to power, Hitler attempted a violent coup at one coup point, was arrested and tried. While the sentence should have been life, he was given 5 years and got out in 9 months. He went on to start WWII in which 70-80 million people died Is there a lesson in this for us?'.",
+                        "dimensions": {
+                            "height": 1079,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 639,
+                                "config_width": 640,
+                                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/148934613_244219100530562_6950750397766287657_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=E8CwvTEYwJEAX_S4O5j&tp=1&oh=d718baa7ddc0f3dcd654e571bed79612&oe=605A706E"
+                            },
+                            {
+                                "config_height": 749,
+                                "config_width": 750,
+                                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s750x750/148934613_244219100530562_6950750397766287657_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=E8CwvTEYwJEAX_S4O5j&tp=1&oh=c99231b2d20e96bff01ded81651fe2c3&oe=605B472A"
+                            },
+                            {
+                                "config_height": 1079,
+                                "config_width": 1080,
+                                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/148934613_244219100530562_6950750397766287657_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=E8CwvTEYwJEAX_S4O5j&tp=1&oh=379b8b2c7ab0767c541f98624e2f19b1&oe=605A6E2A"
+                            }
+                        ],
+                        "display_url": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/148934613_244219100530562_6950750397766287657_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=E8CwvTEYwJEAX_S4O5j&tp=1&oh=379b8b2c7ab0767c541f98624e2f19b1&oe=605A6E2A",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "2506622858487355967",
+                        "is_video": false,
+                        "media_preview": "ACopnu7C4kuhKhGMghifugdRjr6njg55rYMRznJ/76P8u39KRidxGW/AcfnSBie7/wDfP69KAHpGVOSSfqxP86mqtk9Mv/3z/wDWoyeRl/8Avn/61AFmioozj5TuPuRUtAFdgdx4Yj2Ix+VIQeeH/Mevbn/IpWX5iduf+BdePSkC4/hx3+90oAADno/5j/GkwfR/zH+NGzPQZ6fxmjbx93/x7+tAEqMfu4P1OP8AGparplTgDrj+LNWKAKz43H7nvk803AHQJz7/AP1qST7x/wA9qVulAC4HomO/P50ojI5Cp+v+FNP/ALNVugCNUA5wAfb0qSiigD//2Q==",
+                        "shortcode": "CLJUDWKA1o_",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6ImFkOTZkZDg0YzEzOTRkYTI4MzZlMjFkYTgwYjUyMzA4MjUwNjYyMjg1ODQ4NzM1NTk2NyJ9LCJzaWduYXR1cmUiOiIifQ=="
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "GraphImage",
+                        "accessibility_caption": "Photo by Sarah K on February 11, 2021. May be an image of 11 people, people standing and text that says 'AAGA MAKE AMERICA GREAT AGAIN AMERICA GREAT AGAIN CA GAIN CA AIN MAKE MAKE MAKE AMERICA GREAT AGAIN MAKE AMERICA GREAT AGAIN MAKE AMERICA GREAT AGAIN MAKE AMERICA MAKE AMERICA GAIN REAT AGAIN MA AMERICA MAKE GREAT MAKE MAKE AMERI AMERICA GREAT AG GREAT AGAIN MAKE MERIC GREAT AGA MAKE AMERICA GREAT AGAIN MAGA Trumo G AG AGA MAKE AMERICA GREAT AGAIN CA AIN MERICA UTAGAIN MAKE MAKE AMERIC AMERIO EAT AGA GREAT AG CA GAIN MA GREAT AGA AMERI MAKE'.",
+                        "dimensions": {
+                            "height": 1077,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 638,
+                                "config_width": 640,
+                                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/148186300_800369317221137_2996762424719489381_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=105&_nc_ohc=47kC6JwSzH4AX-7nMAN&tp=1&oh=83aa232676642d58152fde03d668cfd6&oe=605BEC03"
+                            },
+                            {
+                                "config_height": 747,
+                                "config_width": 750,
+                                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s750x750/148186300_800369317221137_2996762424719489381_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=105&_nc_ohc=47kC6JwSzH4AX-7nMAN&tp=1&oh=97c684faafdbb56609e93da2337a1389&oe=605AAB47"
+                            },
+                            {
+                                "config_height": 1077,
+                                "config_width": 1080,
+                                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/148186300_800369317221137_2996762424719489381_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=105&_nc_ohc=47kC6JwSzH4AX-7nMAN&tp=1&oh=7d09a471f06686176b03dbe38a98b14d&oe=605C7BC7"
+                            }
+                        ],
+                        "display_url": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/148186300_800369317221137_2996762424719489381_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=105&_nc_ohc=47kC6JwSzH4AX-7nMAN&tp=1&oh=7d09a471f06686176b03dbe38a98b14d&oe=605C7BC7",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "2506622858495561296",
+                        "is_video": false,
+                        "media_preview": "ACoppwyRqg3A+nX9cdfzpHiVySuQOO/XP+eab5pWNSwzvJzx0HHOP89qsC6DjbGhY5wAOT9emfepej0N01KNpO1v67k/9lZG3cv1wf51WjuEtWLBCNw2jDdecHOT688DOPzpy/a1R5ZNw2DI3EgD6KOuPfin6dHvQuQCcnDn+EnkgfXrn8KdiOa6tf8ArzGXN8zDy3QxqeQTnkD296x9zetbd+hcqpBAAyGJ5PbA9uh/KqIiwMbQcd+KpEMljZbj5pCMjgDt9asWuPtIUkBgDyucYxVNEWE5UkZyOT/+rt7mmIBE+5WKjtjr7j6Uk2/QbVvU6K7lQQOTk8dOmazbd1gt1YYIZjgEnjOcAnGO3WqE9y7K3zFgwwQQP0GKIoHkAVmIXqB2GfTJxnvxzS2Gk3t/XzNS2vkkJMmyMAgDcct79vu+lW/tcfYpj6H/AArMisVG7czHOBlcD656+g/GphYIB9+Qf98/4UA1bR7/ACKbhZo3kKbSq4B7A57Y659fT0p81qkNuGb/AFvUMDkNnt9Mdx+tQ2v/AB6yfX/4mnT/APHvF/vN/M0AldX80igXZSre+4d+nrVnzXHyYC45wfXr2HPXj9elVZe34/zq433v+A/+zGl0uOKvJRvv/kRC4kJLAkbsYxkD9PSrH2gd3bPenn734f0rLf7x+poWvQdSLg7Xv/XzP//Z",
+                        "shortcode": "CLJUDWKgI5Q",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6ImFkOTZkZDg0YzEzOTRkYTI4MzZlMjFkYTgwYjUyMzA4MjUwNjYyMjg1ODQ5NTU2MTI5NiJ9LCJzaWduYXR1cmUiOiIifQ=="
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "GraphImage",
+                        "accessibility_caption": "Photo by Sarah K on February 11, 2021. May be an image of 9 people and people standing.",
+                        "dimensions": {
+                            "height": 1079,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 639,
+                                "config_width": 640,
+                                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/148975197_731226591115523_6337424331335904548_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=111&_nc_ohc=EkidgI3hsCAAX8Z7YCX&tp=1&oh=2301116861b720c35b6f767694c3cc35&oe=6059E738"
+                            },
+                            {
+                                "config_height": 749,
+                                "config_width": 750,
+                                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s750x750/148975197_731226591115523_6337424331335904548_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=111&_nc_ohc=EkidgI3hsCAAX8Z7YCX&tp=1&oh=8cc28ec340d7b84c02a5f7199cad0e79&oe=60592774"
+                            },
+                            {
+                                "config_height": 1079,
+                                "config_width": 1080,
+                                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/148975197_731226591115523_6337424331335904548_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=111&_nc_ohc=EkidgI3hsCAAX8Z7YCX&tp=1&oh=a193a3b106853dcda2575c50a564c073&oe=605C8F74"
+                            }
+                        ],
+                        "display_url": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/148975197_731226591115523_6337424331335904548_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=111&_nc_ohc=EkidgI3hsCAAX8Z7YCX&tp=1&oh=a193a3b106853dcda2575c50a564c073&oe=605C8F74",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "2506622858411738965",
+                        "is_video": false,
+                        "media_preview": null,
+                        "shortcode": "CLJUDWFgYdV",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6ImFkOTZkZDg0YzEzOTRkYTI4MzZlMjFkYTgwYjUyMzA4MjUwNjYyMjg1ODQxMTczODk2NSJ9LCJzaWduYXR1cmUiOiIifQ=="
+                    }
+                }
+            ]
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "fact_check_information": null,
+        "fact_check_overall_rating": null,
+        "gating_info": null,
+        "has_ranked_comments": false,
+        "id": "2506622863101080758",
+        "is_ad": false,
+        "is_video": false,
+        "location": {
+            "address_json": null,
+            "has_public_page": true,
+            "id": "141560226319243",
+            "name": "Impeach Trump Now.",
+            "slug": "impeach-trump-now"
+        },
+        "media_preview": null,
+        "owner": {
+            "blocked_by_viewer": false,
+            "followed_by_viewer": false,
+            "full_name": "Sarah K",
+            "has_blocked_viewer": false,
+            "id": "199415611",
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-19/s150x150/147351549_3358266947612824_5140480368534110746_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=CQBVkb4ELVwAX--IOVd&tp=1&oh=395a38ae8cb7fd5455d697dcaab4a789&oe=605B6E60",
+            "requested_by_viewer": false,
+            "username": "s_k_h_81"
+        },
+        "shortcode": "CLJUDadAzS2",
+        "taken_at_timestamp": 1613032752,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/c0.0.1439.1439a/s150x150/148934613_244219100530562_6950750397766287657_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=E8CwvTEYwJEAX_S4O5j&tp=1&oh=aca7850f35f9d37df7280f0490bfe5fe&oe=605C49AC"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/c0.0.1439.1439a/s240x240/148934613_244219100530562_6950750397766287657_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=E8CwvTEYwJEAX_S4O5j&tp=1&oh=7dc8c803cafb26004af2ac2190d5a6f0&oe=60592AAE"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/c0.0.1439.1439a/s320x320/148934613_244219100530562_6950750397766287657_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=E8CwvTEYwJEAX_S4O5j&tp=1&oh=70a446aa9277d6808eea1d21e4907a82&oe=605B4A54"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/c0.0.1439.1439a/s480x480/148934613_244219100530562_6950750397766287657_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=E8CwvTEYwJEAX_S4O5j&tp=1&oh=b7b0214b18b12b2393cd5f7a7d8611b4&oe=605CA795"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.0.1439.1439a/s640x640/148934613_244219100530562_6950750397766287657_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=E8CwvTEYwJEAX_S4O5j&tp=1&oh=7383945af423eaff3160b2f7221145d4&oe=605988ED"
+            }
+        ],
+        "thumbnail_src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.0.1439.1439a/s640x640/148934613_244219100530562_6950750397766287657_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=E8CwvTEYwJEAX_S4O5j&tp=1&oh=7383945af423eaff3160b2f7221145d4&oe=605988ED",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjpmYWxzZSwidXVpZCI6ImFkOTZkZDg0YzEzOTRkYTI4MzZlMjFkYTgwYjUyMzA4MjUwNjYyMjg2MzEwMTA4MDc1OCJ9LCJzaWduYXR1cmUiOiIifQ==",
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}

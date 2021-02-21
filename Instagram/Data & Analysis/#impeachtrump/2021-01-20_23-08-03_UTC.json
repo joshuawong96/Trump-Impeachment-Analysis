@@ -1,0 +1,138 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.6.1"
+    },
+    "node": {
+        "__typename": "GraphVideo",
+        "accessibility_caption": null,
+        "caption_is_edited": true,
+        "commenting_disabled_for_viewer": false,
+        "comments_disabled": false,
+        "dash_info": {
+            "is_dash_eligible": false,
+            "number_of_qualities": 0,
+            "video_dash_manifest": null
+        },
+        "dimensions": {
+            "height": 1920,
+            "width": 1080
+        },
+        "display_resources": [
+            {
+                "config_height": 1137,
+                "config_width": 640,
+                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/sh0.08/e35/p640x640/139979885_252899219550213_6072562703939040833_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=109&_nc_ohc=H-QHo5bZt1oAX9ts4Zw&tp=1&oh=2902a6360b898552376697a52a576cd3&oe=6033EF3F"
+            },
+            {
+                "config_height": 1333,
+                "config_width": 750,
+                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/sh0.08/e35/p750x750/139979885_252899219550213_6072562703939040833_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=109&_nc_ohc=H-QHo5bZt1oAX9ts4Zw&tp=1&oh=0e4584233618a7a036cb950ae2d62917&oe=6033EF3B"
+            },
+            {
+                "config_height": 1920,
+                "config_width": 1080,
+                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/e35/p1080x1080/139979885_252899219550213_6072562703939040833_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=109&_nc_ohc=H-QHo5bZt1oAX9ts4Zw&tp=1&oh=dd5ba6622a179f5c1bec63f3bae05b78&oe=6033ACBC"
+            }
+        ],
+        "display_url": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/e35/p1080x1080/139979885_252899219550213_6072562703939040833_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=109&_nc_ohc=H-QHo5bZt1oAX9ts4Zw&tp=1&oh=dd5ba6622a179f5c1bec63f3bae05b78&oe=6033ACBC",
+        "edge_liked_by": {
+            "count": 15
+        },
+        "edge_media_preview_like": {
+            "count": 15,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Trump will go down in history as one of our most divisive and reckless presidents.  #trump #impeachtrump #impeachment #trial #election #fraud #republican #democracy #democrat"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 0,
+            "edges": [],
+            "page_info": {
+                "end_cursor": null,
+                "has_next_page": false
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "encoding_status": null,
+        "fact_check_information": null,
+        "fact_check_overall_rating": null,
+        "gating_info": null,
+        "has_ranked_comments": false,
+        "id": "2491114390063699936",
+        "is_ad": false,
+        "is_published": true,
+        "is_video": true,
+        "location": null,
+        "media_preview": "ABcqx3449P8AGtVrePZkZ3AZ6/8A1v61n3OHkYr0JJH481eLN5fX70e78jtI9OtZNPob3V3czFPzGimgENn2ooYkOdwXO3oScfTPFWhcHyQvsV/AsGqkVHWniNiNwDbfXHFbXsZbjSc0UAAfjRUtXKTsXvsJyOcgnptbp154qfy5MEgjIPGA3Ht6Vk+fJ/fb/vo/41bSaQW5O5vzNDa7CWpK1kSc5AzzgK1FZ4nk/vN/30f8aKok/9k=",
+        "owner": {
+            "blocked_by_viewer": false,
+            "followed_by_viewer": false,
+            "full_name": "Jack Howie CBA 20\u2019 UNCW 24\u2019",
+            "has_blocked_viewer": false,
+            "id": "44447344392",
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-19/s150x150/123116386_4030577356989255_8600033017655875727_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=Ld1wPjOaDBQAX9DKgyg&tp=1&oh=cb552f549627fbdc0c53d48bfdc5c8f4&oe=605CBCD4",
+            "requested_by_viewer": false,
+            "username": "the.freedom.effect"
+        },
+        "product_type": "igtv",
+        "shortcode": "CKSN1banFfg",
+        "taken_at_timestamp": 1611184083,
+        "thumbnail_resources": [
+            {
+                "config_height": 266,
+                "config_width": 150,
+                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/e35/p150x150/139979885_252899219550213_6072562703939040833_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=109&_nc_ohc=H-QHo5bZt1oAX9ts4Zw&tp=1&oh=e1ec846c7c95344d393f0ed1a3aa2f0b&oe=6033DA3C"
+            },
+            {
+                "config_height": 426,
+                "config_width": 240,
+                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/e35/p240x240/139979885_252899219550213_6072562703939040833_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=109&_nc_ohc=H-QHo5bZt1oAX9ts4Zw&tp=1&oh=cd2e2c038c3c754b3e98090f56cf2806&oe=6033CF7E"
+            },
+            {
+                "config_height": 568,
+                "config_width": 320,
+                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/e35/p320x320/139979885_252899219550213_6072562703939040833_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=109&_nc_ohc=H-QHo5bZt1oAX9ts4Zw&tp=1&oh=5a56aa226242f1bf75163bba635ac4f6&oe=6033C584"
+            },
+            {
+                "config_height": 853,
+                "config_width": 480,
+                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/e35/p480x480/139979885_252899219550213_6072562703939040833_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=109&_nc_ohc=H-QHo5bZt1oAX9ts4Zw&tp=1&oh=018eae4263ae5df784e01e6b591b44c8&oe=60337545"
+            },
+            {
+                "config_height": 1137,
+                "config_width": 640,
+                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/sh0.08/e35/p640x640/139979885_252899219550213_6072562703939040833_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=109&_nc_ohc=H-QHo5bZt1oAX9ts4Zw&tp=1&oh=2902a6360b898552376697a52a576cd3&oe=6033EF3F"
+            }
+        ],
+        "thumbnail_src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.472.1215.1215a/s640x640/139979885_252899219550213_6072562703939040833_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=109&_nc_ohc=H-QHo5bZt1oAX9ts4Zw&tp=1&oh=a8c8f2e6001d67d686545de543ed76fa&oe=6033D711",
+        "title": "Trump: a Narcissist",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiY2FhZTcyM2JhNThiNDgyOTk0YjA5MmFiZDA0YjViM2QyNDkxMTE0MzkwMDYzNjk5OTM2In0sInNpZ25hdHVyZSI6IiJ9",
+        "video_duration": 97.4,
+        "video_url": "https://scontent-hkg4-2.cdninstagram.com/v/t50.2886-16/10000000_1606068099589151_2747989694113307565_n.mp4?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=111&_nc_ohc=gOX4qoMG4dMAX_owxmU&oe=6033F3E8&oh=1233d3a2baed2c11c960984cb569148b",
+        "video_view_count": 81,
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}

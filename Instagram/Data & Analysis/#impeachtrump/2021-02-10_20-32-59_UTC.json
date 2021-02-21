@@ -1,0 +1,442 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.6.1"
+    },
+    "node": {
+        "__typename": "GraphSidecar",
+        "accessibility_caption": "Photo by Natv & politically assertive on February 10, 2021. May be an image of 2 people and text that says 'O PROUD BOY, DOMINIC PEZZOLA, LEGAL DEFENSES [...]DEFENDANT ACTED OUT OF THE DELUSIONAL BELIEF THAT He WAS A \"PATRIOT\"[... [...]ALBEIT ALBET A FRIGHTENINGLY CONFUSED AND DISTORTED SENSE OF CONSCIENCE[...] [...]HE HAS LEARNED NOT BE so GULLIBLE AND WILL NOT BE so EASILY DUPED AGAIN[...]'.",
+        "caption_is_edited": false,
+        "commenting_disabled_for_viewer": false,
+        "comments_disabled": false,
+        "dimensions": {
+            "height": 1080,
+            "width": 1080
+        },
+        "display_resources": [
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/148156183_820490235523708_3162870732237910748_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=104&_nc_ohc=dPDLiKx1rT0AX8PkoCg&tp=1&oh=2e7056cb70ec2a65f5bd98332603aec8&oe=605915D3"
+            },
+            {
+                "config_height": 750,
+                "config_width": 750,
+                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s750x750/148156183_820490235523708_3162870732237910748_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=104&_nc_ohc=dPDLiKx1rT0AX8PkoCg&tp=1&oh=c9600ad331eb2e38b5b8206d4ce8222d&oe=6059A797"
+            },
+            {
+                "config_height": 1080,
+                "config_width": 1080,
+                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/e35/148156183_820490235523708_3162870732237910748_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=104&_nc_ohc=dPDLiKx1rT0AX8PkoCg&tp=1&oh=0ea853a23117628180585df99d1a70c1&oe=605ADE69"
+            }
+        ],
+        "display_url": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/e35/148156183_820490235523708_3162870732237910748_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=104&_nc_ohc=dPDLiKx1rT0AX8PkoCg&tp=1&oh=0ea853a23117628180585df99d1a70c1&oe=605ADE69",
+        "edge_liked_by": {
+            "count": 12
+        },
+        "edge_media_preview_like": {
+            "count": 12,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "\ud83d\udea8\ud83d\udea8\ud83d\udea8Here is #proudboys member, Dominic Pezzola, admits to be gullible, delusional, and he acted out of fear but trust that he won\u2019t ever be duped again \ud83d\ude02 he served in the marines and owns a company. His wife worked in the courts but despite that he is easily manipulated \ud83d\ude44\ud83e\udd26\ud83c\udffb\u200d\u2640\ufe0f\ud83d\ude12 ***Not all pages to the filing are attached. #courtfiling #dominicpezzola #insurrection #traitor #domesticterrorist #capitolriots #maga #politics #scandalous #treason #donaldtrump #impeachtrump ##democracy #federalistsociety #saveamerica #republicans #democrats #joebiden #constitution  #election #news #governmentcorruption"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 12,
+            "edges": [],
+            "page_info": {
+                "end_cursor": "",
+                "has_next_page": true
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "edge_sidecar_to_children": {
+            "edges": [
+                {
+                    "node": {
+                        "__typename": "GraphImage",
+                        "accessibility_caption": "Photo by Natv & politically assertive on February 10, 2021. May be an image of 2 people and text that says 'O PROUD BOY, DOMINIC PEZZOLA, LEGAL DEFENSES [...]DEFENDANT ACTED OUT OF THE DELUSIONAL BELIEF THAT He WAS A \"PATRIOT\"[... [...]ALBEIT ALBET A FRIGHTENINGLY CONFUSED AND DISTORTED SENSE OF CONSCIENCE[...] [...]HE HAS LEARNED NOT BE so GULLIBLE AND WILL NOT BE so EASILY DUPED AGAIN[...]'.",
+                        "dimensions": {
+                            "height": 1080,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 640,
+                                "config_width": 640,
+                                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/148156183_820490235523708_3162870732237910748_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=104&_nc_ohc=dPDLiKx1rT0AX8PkoCg&tp=1&oh=2e7056cb70ec2a65f5bd98332603aec8&oe=605915D3"
+                            },
+                            {
+                                "config_height": 750,
+                                "config_width": 750,
+                                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s750x750/148156183_820490235523708_3162870732237910748_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=104&_nc_ohc=dPDLiKx1rT0AX8PkoCg&tp=1&oh=c9600ad331eb2e38b5b8206d4ce8222d&oe=6059A797"
+                            },
+                            {
+                                "config_height": 1080,
+                                "config_width": 1080,
+                                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/e35/148156183_820490235523708_3162870732237910748_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=104&_nc_ohc=dPDLiKx1rT0AX8PkoCg&tp=1&oh=0ea853a23117628180585df99d1a70c1&oe=605ADE69"
+                            }
+                        ],
+                        "display_url": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/e35/148156183_820490235523708_3162870732237910748_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=104&_nc_ohc=dPDLiKx1rT0AX8PkoCg&tp=1&oh=0ea853a23117628180585df99d1a70c1&oe=605ADE69",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "2506257341471974191",
+                        "is_video": false,
+                        "media_preview": "ACoq6IsF6/yNAcE4H8jUZQZzkfmf8aTZ7j9f8aQFOa5ZZGQHaF7/AJYH4k1lvdyoceYQRz16g9COOn61auIphM5VCyMByCOoA6cg9R61Qkt7mUhjEQyggHI6dgRnnHPPfNJplppak4vJgqSsx2k8jPb34x+vcV0McgdQw6MAR+IzXMfZLgx7CpPA9M59OuMD1rpIF2xqrYBCgHnuBzQgbKLQuT0P5GmfZ29CfwP+NWiW7fzNMbeOST+BP+FPmI5SuIX/ALp/L/69KIH9D+R/xqXc3+1/49/hSjee5/M/4UXDlIxAwOcH8jT/AC29D+VSDeP/ANZqXJo5g5RrM+eD/L+tJvk9T+lXNo9KNo9Kk0KHnP03enpTw8h7nH4fjVzaPQUbR6UAUw8nqR78VJub1qxtHpRtHpQHyP/Z",
+                        "shortcode": "CLIA8X6JuMv",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOWQxMWM2MDA1YzdjNDZkMWE2ZjliNTUyMjJjMTNiZGIyNTA2MjU3MzQxNDcxOTc0MTkxIn0sInNpZ25hdHVyZSI6IiJ9"
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "GraphImage",
+                        "accessibility_caption": "Photo by Natv & politically assertive on February 10, 2021. May be an image of text.",
+                        "dimensions": {
+                            "height": 1080,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 640,
+                                "config_width": 640,
+                                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/148646646_214690857003165_2045535854792586874_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=109&_nc_ohc=diJY5afzuMYAX-0RZ48&tp=1&oh=299b97acccdf459661442a1dfefee587&oe=605A6E63"
+                            },
+                            {
+                                "config_height": 750,
+                                "config_width": 750,
+                                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s750x750/148646646_214690857003165_2045535854792586874_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=109&_nc_ohc=diJY5afzuMYAX-0RZ48&tp=1&oh=c94d48be3a6daf877d3d36e45279ff28&oe=605B4527"
+                            },
+                            {
+                                "config_height": 1080,
+                                "config_width": 1080,
+                                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/e35/148646646_214690857003165_2045535854792586874_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=109&_nc_ohc=diJY5afzuMYAX-0RZ48&tp=1&oh=342b63d3bddd5506d98ba22a44de3380&oe=605C4C59"
+                            }
+                        ],
+                        "display_url": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/e35/148646646_214690857003165_2045535854792586874_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=109&_nc_ohc=diJY5afzuMYAX-0RZ48&tp=1&oh=342b63d3bddd5506d98ba22a44de3380&oe=605C4C59",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "2506257341513785062",
+                        "is_video": false,
+                        "media_preview": "ACoq6QDimsABnBP0pSMjpmm4A+8AKAG7h/db/P405cE4wR9c04L/AHeBS4Pr/KgBcCozUtRHrQBIOlV5E3nIJX8DUrfd/wA//XqPH+eP8KAI/K/2m/I0qxbTklj7YNP/AM9v8KP89v8ACgCcHNRnrSxjv/n+QpD1oAVvu/5/xFRZ/wA8f/FU+UkJxx0qDcfU9PWgCXP+eP8A4qj/AD1H/wAVUO9sdT270b29T270AW0II4/z+ppp605OVFNPWgD/2Q==",
+                        "shortcode": "CLIA8X8pN7m",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOWQxMWM2MDA1YzdjNDZkMWE2ZjliNTUyMjJjMTNiZGIyNTA2MjU3MzQxNTEzNzg1MDYyIn0sInNpZ25hdHVyZSI6IiJ9"
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "GraphImage",
+                        "accessibility_caption": "Photo by Natv & politically assertive on February 10, 2021.",
+                        "dimensions": {
+                            "height": 1080,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 640,
+                                "config_width": 640,
+                                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/148889664_244126723915186_6037864638928847942_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=110&_nc_ohc=2JfF-SObnFAAX--nb4n&tp=1&oh=209826a85b78704c08e6ec73290a27c8&oe=605A7704"
+                            },
+                            {
+                                "config_height": 750,
+                                "config_width": 750,
+                                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s750x750/148889664_244126723915186_6037864638928847942_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=110&_nc_ohc=2JfF-SObnFAAX--nb4n&tp=1&oh=27b4697c00ca826c6b126222ae44245b&oe=605CDCC8"
+                            },
+                            {
+                                "config_height": 1080,
+                                "config_width": 1080,
+                                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/e35/148889664_244126723915186_6037864638928847942_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=110&_nc_ohc=2JfF-SObnFAAX--nb4n&tp=1&oh=a157eebf912438d3d9505645708e55ec&oe=605B4F3A"
+                            }
+                        ],
+                        "display_url": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/e35/148889664_244126723915186_6037864638928847942_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=110&_nc_ohc=2JfF-SObnFAAX--nb4n&tp=1&oh=a157eebf912438d3d9505645708e55ec&oe=605B4F3A",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "2506257341488682404",
+                        "is_video": false,
+                        "media_preview": "ACoq6TOB60bQf/10hOB/n/61RZP+Sf8A4qgCU7R14/Gl2j/JNQk/55/+Kpc/5yf/AIqgCaoSgzT0I9/xP/1zSHrQArfd/wA/4Go8f55/+JqRvu/5/wADUeP84H/xNABj/PP/AMTS4+v6/wDxNIR/nA/+JpMf54/+JoAnUDHFMPWljHX/AD/QUh60AK+NvNR5X1/Q/wCNE/3PyqoD0oAt5X1/Q0ZX1/Q/41Vz1pMnFAF+MDqDmkPWiL7ooPWgD//Z",
+                        "shortcode": "CLIA8X7JdWk",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOWQxMWM2MDA1YzdjNDZkMWE2ZjliNTUyMjJjMTNiZGIyNTA2MjU3MzQxNDg4NjgyNDA0In0sInNpZ25hdHVyZSI6IiJ9"
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "GraphImage",
+                        "accessibility_caption": "Photo by Natv & politically assertive on February 10, 2021. May be an image of text.",
+                        "dimensions": {
+                            "height": 1080,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 640,
+                                "config_width": 640,
+                                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/148390340_163715365559660_6546906643392041762_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=108&_nc_ohc=rKJmZ3kaVK0AX-eJNx_&tp=1&oh=08597323404d622a8fc07560006d8e46&oe=605A8A9A"
+                            },
+                            {
+                                "config_height": 750,
+                                "config_width": 750,
+                                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s750x750/148390340_163715365559660_6546906643392041762_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=108&_nc_ohc=rKJmZ3kaVK0AX-eJNx_&tp=1&oh=34a6b999c8f4ca2fa0bdf79d9eec2173&oe=6059D4DE"
+                            },
+                            {
+                                "config_height": 1080,
+                                "config_width": 1080,
+                                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/148390340_163715365559660_6546906643392041762_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=108&_nc_ohc=rKJmZ3kaVK0AX-eJNx_&tp=1&oh=73a8e3ab1cb7cddc7aff06dfba9e0d07&oe=60598224"
+                            }
+                        ],
+                        "display_url": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/148390340_163715365559660_6546906643392041762_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=108&_nc_ohc=rKJmZ3kaVK0AX-eJNx_&tp=1&oh=73a8e3ab1cb7cddc7aff06dfba9e0d07&oe=60598224",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "2506257341539041247",
+                        "is_video": false,
+                        "media_preview": "ACoq6MkKMn+n9aZuX/JH+NPb7tR5Pv8Ar/jQAu5f8kf40bl/yR/jSZP+c/40c+/6/wCNAEqkHpTDT1H1/GmHrQA49PX/AD+NR4/zz/8AE09/u/5/wNRYH+QP/iaAFx/n/K0vI6Z/X/4ml2H0/l/hRsPp/L/CgCRc9/8AP6CmHrTlBHX8uP8ACmnrQA4nA9P8/hUWf88f/FU6UkJx7VW3t6n86AJsj/OP/iqOP84/+KqHe3HJ/OgO3qenrQBbj9f8/wAzSHrTICSTnnpTz1oA/9k=",
+                        "shortcode": "CLIA8X-Jj_f",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOWQxMWM2MDA1YzdjNDZkMWE2ZjliNTUyMjJjMTNiZGIyNTA2MjU3MzQxNTM5MDQxMjQ3In0sInNpZ25hdHVyZSI6IiJ9"
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "GraphImage",
+                        "accessibility_caption": "Photo by Natv & politically assertive on February 10, 2021.",
+                        "dimensions": {
+                            "height": 1080,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 640,
+                                "config_width": 640,
+                                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/148289145_1061320074271914_5375346761685621051_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=106&_nc_ohc=yx4WpgFP_H4AX_mid2o&tp=1&oh=ec3139641f962df0ecda08a6a8d4ceca&oe=605AD7C5"
+                            },
+                            {
+                                "config_height": 750,
+                                "config_width": 750,
+                                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s750x750/148289145_1061320074271914_5375346761685621051_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=106&_nc_ohc=yx4WpgFP_H4AX_mid2o&tp=1&oh=42ba03b1f49746af6b8488b6091e1edb&oe=605CB47E"
+                            },
+                            {
+                                "config_height": 1080,
+                                "config_width": 1080,
+                                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/148289145_1061320074271914_5375346761685621051_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=106&_nc_ohc=yx4WpgFP_H4AX_mid2o&tp=1&oh=306e7bc0d2d89ef796973db3df651cc3&oe=605C7D5E"
+                            }
+                        ],
+                        "display_url": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/148289145_1061320074271914_5375346761685621051_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=106&_nc_ohc=yx4WpgFP_H4AX_mid2o&tp=1&oh=306e7bc0d2d89ef796973db3df651cc3&oe=605C7D5E",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "2506257341480307738",
+                        "is_video": false,
+                        "media_preview": "ACoq6MkAZpmV9/zH+NPbpUeD/nP+FAC5Hv8AmP8AGjK+/wCY/wAaTn/Of8KOff8AX/CgCRcEcUwnmnpmmEc0AOb7v+f8D/Ko8e36f/Y1IcY56VHlfT9anmAMf5x/9jRj/OP/ALGkPtx+X+NLken60cwEkZ4x/n+QpD1pQcikNNO4A3T/AD/iKZn/AD/lqdIcL+VQ5NZsZJn/ADn/AOyoz/n/AC1RsTS5NICden+f/r0hpsZzmnGriB//2Q==",
+                        "shortcode": "CLIA8X6pgwa",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOWQxMWM2MDA1YzdjNDZkMWE2ZjliNTUyMjJjMTNiZGIyNTA2MjU3MzQxNDgwMzA3NzM4In0sInNpZ25hdHVyZSI6IiJ9"
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "GraphImage",
+                        "accessibility_caption": "Photo by Natv & politically assertive on February 10, 2021. May be an image of text.",
+                        "dimensions": {
+                            "height": 1080,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 640,
+                                "config_width": 640,
+                                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/147874547_1111885959256405_3734296833904778710_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=101&_nc_ohc=3Jw_HOhSopcAX9hv63z&tp=1&oh=b9e44d462a10ea0a301da52612f93fe9&oe=605A0F83"
+                            },
+                            {
+                                "config_height": 750,
+                                "config_width": 750,
+                                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s750x750/147874547_1111885959256405_3734296833904778710_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=101&_nc_ohc=3Jw_HOhSopcAX9hv63z&tp=1&oh=9ca28fa7ee86bd8523d6d075ba90c179&oe=605B833C"
+                            },
+                            {
+                                "config_height": 1080,
+                                "config_width": 1080,
+                                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/147874547_1111885959256405_3734296833904778710_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=101&_nc_ohc=3Jw_HOhSopcAX9hv63z&tp=1&oh=8638060f814e311b93fed2cc85bac2b1&oe=605A649C"
+                            }
+                        ],
+                        "display_url": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/147874547_1111885959256405_3734296833904778710_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=101&_nc_ohc=3Jw_HOhSopcAX9hv63z&tp=1&oh=8638060f814e311b93fed2cc85bac2b1&oe=605A649C",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "2506257341455194604",
+                        "is_video": false,
+                        "media_preview": "ACoq6TgDJqPcv+SP8ac3So8/55pXXcB25fT9R/jRuX/JH+NNz9f1oz/nmi67gTDGKYach4pp60wBun5f56Go8f5/ytSN0/Ko+P8AOP8ACsXuxi4/z/laTH+f8rR/nt/hR/nt/hSAkT/P+cCg9aEoPWtIgDdP8/4imYP+f/2qdN9z8qqZOaOUC1g+/wDn/gVGD/n/APaqqGPrSbj6mjl8wLq57/5/U0HrSQcrSnrVJWEf/9k=",
+                        "shortcode": "CLIA8X5Jtns",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOWQxMWM2MDA1YzdjNDZkMWE2ZjliNTUyMjJjMTNiZGIyNTA2MjU3MzQxNDU1MTk0NjA0In0sInNpZ25hdHVyZSI6IiJ9"
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "GraphImage",
+                        "accessibility_caption": "Photo by Natv & politically assertive on February 10, 2021. May be an image of text.",
+                        "dimensions": {
+                            "height": 1080,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 640,
+                                "config_width": 640,
+                                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/148752927_794900851423447_3402610254280483517_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=107&_nc_ohc=nGwloCAKD3wAX-pvQ84&tp=1&oh=af0d6ed07a901dfc85d096b7a4c648dc&oe=605A56C5"
+                            },
+                            {
+                                "config_height": 750,
+                                "config_width": 750,
+                                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s750x750/148752927_794900851423447_3402610254280483517_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=107&_nc_ohc=nGwloCAKD3wAX-pvQ84&tp=1&oh=b29d67ec08d7259cdde9170c04d615fb&oe=605AFE81"
+                            },
+                            {
+                                "config_height": 1080,
+                                "config_width": 1080,
+                                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/148752927_794900851423447_3402610254280483517_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=107&_nc_ohc=nGwloCAKD3wAX-pvQ84&tp=1&oh=fa9e443c578ca6592775b794a4c9a3ef&oe=605B8E7F"
+                            }
+                        ],
+                        "display_url": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/148752927_794900851423447_3402610254280483517_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=107&_nc_ohc=nGwloCAKD3wAX-pvQ84&tp=1&oh=fa9e443c578ca6592775b794a4c9a3ef&oe=605B8E7F",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "2506257341497167542",
+                        "is_video": false,
+                        "media_preview": "ACoq6MkAZ/wpm5f8kf408jI4qINnof8A0KgB25f8kf40bl/yR/jSZ9/50fj/ADoAkUg/5B/qaaaVP89f60h60AK/3f8AP+IqPP8Anj/4qpWzjj/P6io8H3/X/wCKoATP+eP/AIqjP+eP/iqfsPr/AD/xo2H1/n/jQAseP8//AKzSHrT1GOv9f6k0w9aAJB0paQdKWgAooooAKiPWpaiPWgD/2Q==",
+                        "shortcode": "CLIA8X7p062",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOWQxMWM2MDA1YzdjNDZkMWE2ZjliNTUyMjJjMTNiZGIyNTA2MjU3MzQxNDk3MTY3NTQyIn0sInNpZ25hdHVyZSI6IiJ9"
+                    }
+                },
+                {
+                    "node": {
+                        "__typename": "GraphImage",
+                        "accessibility_caption": "Photo by Natv & politically assertive on February 10, 2021. May be an image of text that says 'Case 1:21-cr-00052-TJK Document Filed 02/10/21 Page 15 Respectfully submitted, /sL Jonathar Zucker 384629 37 Florida Av. NE Suite 200 Washington, DC 20002 (202) 624-0784 jonathanzuckerlaw@gmailco com Counsel for Dominic Pezzola CERTIFICATE OF SERVICE certify that on February 10, 2021, caused copy of the foregoing Memorandum be filed with the Clerk using the CM/ECF System which will send notification of this filing all parties. Courtesy copies were sent by email the assigned AUSAs. /s/'.",
+                        "dimensions": {
+                            "height": 1080,
+                            "width": 1080
+                        },
+                        "display_resources": [
+                            {
+                                "config_height": 640,
+                                "config_width": 640,
+                                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/148465937_780113206216609_7031436353199068693_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=101&_nc_ohc=BUpDjliqUisAX8wPVX5&tp=1&oh=38954e3fac81d15f4e275b336190e7ff&oe=605AD7D4"
+                            },
+                            {
+                                "config_height": 750,
+                                "config_width": 750,
+                                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s750x750/148465937_780113206216609_7031436353199068693_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=101&_nc_ohc=BUpDjliqUisAX8wPVX5&tp=1&oh=835a9cc0d5596c75a32613f95d339439&oe=605B9798"
+                            },
+                            {
+                                "config_height": 1080,
+                                "config_width": 1080,
+                                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/148465937_780113206216609_7031436353199068693_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=101&_nc_ohc=BUpDjliqUisAX8wPVX5&tp=1&oh=29226511bd0fc37412024298ff4e832b&oe=605A66EA"
+                            }
+                        ],
+                        "display_url": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/148465937_780113206216609_7031436353199068693_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=101&_nc_ohc=BUpDjliqUisAX8wPVX5&tp=1&oh=29226511bd0fc37412024298ff4e832b&oe=605A66EA",
+                        "edge_media_to_tagged_user": {
+                            "edges": []
+                        },
+                        "fact_check_information": null,
+                        "fact_check_overall_rating": null,
+                        "gating_info": null,
+                        "id": "2506257341522225739",
+                        "is_video": false,
+                        "media_preview": "ACoq6UdKTaKUdKWgBhAHJpuU/wA5pZDhSRUCv6k/mB/M0AWulRnrT1II4OaYetAD8gDJ4phmX1p+MjFN8sUARbwerE/gP8KUFB15+q//AFqk8sUAY9aAFQgj5eAPbFNPWpKjPWgCQdKWkHSloAKKKKACoj1qWoj1oA//2Q==",
+                        "shortcode": "CLIA8X9JapL",
+                        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOWQxMWM2MDA1YzdjNDZkMWE2ZjliNTUyMjJjMTNiZGIyNTA2MjU3MzQxNTIyMjI1NzM5In0sInNpZ25hdHVyZSI6IiJ9"
+                    }
+                }
+            ]
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "fact_check_information": null,
+        "fact_check_overall_rating": null,
+        "gating_info": null,
+        "has_ranked_comments": false,
+        "id": "2506257345330633281",
+        "is_ad": false,
+        "is_video": false,
+        "location": null,
+        "media_preview": null,
+        "owner": {
+            "blocked_by_viewer": false,
+            "followed_by_viewer": false,
+            "full_name": "Natv & politically assertive",
+            "has_blocked_viewer": false,
+            "id": "610335675",
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-19/s150x150/139126396_394724494960854_8589783621797142382_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=2W-6xVkIvu0AX_eb1cV&tp=1&oh=f5e4a15f91196912dbeea6b98e431abb&oe=605BAD65",
+            "requested_by_viewer": false,
+            "username": "itsheatherroman"
+        },
+        "shortcode": "CLIA8bgJVpB",
+        "taken_at_timestamp": 1612989179,
+        "thumbnail_resources": [
+            {
+                "config_height": 150,
+                "config_width": 150,
+                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/e35/s150x150/148156183_820490235523708_3162870732237910748_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=104&_nc_ohc=dPDLiKx1rT0AX8PkoCg&tp=1&oh=fcd77ee80fa5d5698a5627907d1805d4&oe=6059F958"
+            },
+            {
+                "config_height": 240,
+                "config_width": 240,
+                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/e35/s240x240/148156183_820490235523708_3162870732237910748_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=104&_nc_ohc=dPDLiKx1rT0AX8PkoCg&tp=1&oh=44e42cf50fdcb78c74e5431beff2678a&oe=605A66D2"
+            },
+            {
+                "config_height": 320,
+                "config_width": 320,
+                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/e35/s320x320/148156183_820490235523708_3162870732237910748_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=104&_nc_ohc=dPDLiKx1rT0AX8PkoCg&tp=1&oh=2646bf18e6c12e4fbc2fb4a075da1640&oe=605C7330"
+            },
+            {
+                "config_height": 480,
+                "config_width": 480,
+                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/e35/s480x480/148156183_820490235523708_3162870732237910748_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=104&_nc_ohc=dPDLiKx1rT0AX8PkoCg&tp=1&oh=83fbcf890d57cb71b113e2940561aedd&oe=605CCCE9"
+            },
+            {
+                "config_height": 640,
+                "config_width": 640,
+                "src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/148156183_820490235523708_3162870732237910748_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=104&_nc_ohc=dPDLiKx1rT0AX8PkoCg&tp=1&oh=2e7056cb70ec2a65f5bd98332603aec8&oe=605915D3"
+            }
+        ],
+        "thumbnail_src": "https://scontent-hkg4-2.cdninstagram.com/v/t51.2885-15/sh0.08/e35/s640x640/148156183_820490235523708_3162870732237910748_n.jpg?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=104&_nc_ohc=dPDLiKx1rT0AX8PkoCg&tp=1&oh=2e7056cb70ec2a65f5bd98332603aec8&oe=605915D3",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiOWQxMWM2MDA1YzdjNDZkMWE2ZjliNTUyMjJjMTNiZGIyNTA2MjU3MzQ1MzMwNjMzMjgxIn0sInNpZ25hdHVyZSI6IiJ9",
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}

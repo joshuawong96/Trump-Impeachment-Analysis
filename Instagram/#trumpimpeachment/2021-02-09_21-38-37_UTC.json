@@ -1,0 +1,138 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.6.1"
+    },
+    "node": {
+        "__typename": "GraphVideo",
+        "accessibility_caption": null,
+        "caption_is_edited": false,
+        "commenting_disabled_for_viewer": false,
+        "comments_disabled": false,
+        "dash_info": {
+            "is_dash_eligible": false,
+            "number_of_qualities": 0,
+            "video_dash_manifest": null
+        },
+        "dimensions": {
+            "height": 853,
+            "width": 480
+        },
+        "display_resources": [
+            {
+                "config_height": 1137,
+                "config_width": 640,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/148465902_2811178065829359_1707727290358577942_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=103&_nc_ohc=ieyu4T7k3FkAX-zhmwB&tp=1&oh=3ac50c300d3f22bae326cfc1f0d48da2&oe=6033D6DC"
+            },
+            {
+                "config_height": 1332,
+                "config_width": 750,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/148465902_2811178065829359_1707727290358577942_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=103&_nc_ohc=ieyu4T7k3FkAX-zhmwB&tp=1&oh=3ac50c300d3f22bae326cfc1f0d48da2&oe=6033D6DC"
+            },
+            {
+                "config_height": 1919,
+                "config_width": 1080,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/148465902_2811178065829359_1707727290358577942_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=103&_nc_ohc=ieyu4T7k3FkAX-zhmwB&tp=1&oh=3ac50c300d3f22bae326cfc1f0d48da2&oe=6033D6DC"
+            }
+        ],
+        "display_url": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/148465902_2811178065829359_1707727290358577942_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=103&_nc_ohc=ieyu4T7k3FkAX-zhmwB&tp=1&oh=3ac50c300d3f22bae326cfc1f0d48da2&oe=6033D6DC",
+        "edge_liked_by": {
+            "count": 13
+        },
+        "edge_media_preview_like": {
+            "count": 13,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "FULL VIDEO: House impeachment managers introduce video evidence as part of their case against Donald Trump, depicting one of the darkest days in American history.\n#impeachment #impeachmenttrial #donaldtrump  #housemanagers #jan6 #capitolriot #senatetrial #jamieraskin #repraskin #republican #democrat #congress #politics #uspolitics #news #usnews #politicalnews #trumpimpeachment"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1,
+            "edges": [],
+            "page_info": {
+                "end_cursor": "",
+                "has_next_page": true
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "encoding_status": null,
+        "fact_check_information": null,
+        "fact_check_overall_rating": null,
+        "gating_info": null,
+        "has_ranked_comments": false,
+        "id": "2505560200726356247",
+        "is_ad": false,
+        "is_published": true,
+        "is_video": true,
+        "location": null,
+        "media_preview": "ABcqxlJHfB+lHmOD2z9Kmt1ySR1UZ/DvTJ87znjJ7+3FIrzE85s8gfXH9aKizjrRQIdC7Ic88gg9eh4pbhizk+pFStdydQ2Pyqtk9c/rRcq2lroX8KKTn1/WigLeaK+KMUlFMgXH+c0UlFAH/9k=",
+        "owner": {
+            "blocked_by_viewer": false,
+            "followed_by_viewer": false,
+            "full_name": "Fifteen Second News",
+            "has_blocked_viewer": false,
+            "id": "44841009037",
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-19/s150x150/135694993_476327863547736_2979130857025200626_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=zXWMvaW0e7cAX8AANhv&tp=1&oh=e52dcfb2c35610373f22f5b9ace0c648&oe=605B012A",
+            "requested_by_viewer": false,
+            "username": "fifteen_second_news"
+        },
+        "product_type": "igtv",
+        "shortcode": "CLFibo_pqEX",
+        "taken_at_timestamp": 1612906717,
+        "thumbnail_resources": [
+            {
+                "config_height": 266,
+                "config_width": 150,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/p150x150/148465902_2811178065829359_1707727290358577942_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=103&_nc_ohc=ieyu4T7k3FkAX-zhmwB&tp=1&oh=992d6f78e7b513dd80913a2ec54934d6&oe=6033A9F7"
+            },
+            {
+                "config_height": 426,
+                "config_width": 240,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/p240x240/148465902_2811178065829359_1707727290358577942_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=103&_nc_ohc=ieyu4T7k3FkAX-zhmwB&tp=1&oh=5592609baeb863889398b4f3343c0c5e&oe=6033917F"
+            },
+            {
+                "config_height": 568,
+                "config_width": 320,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/p320x320/148465902_2811178065829359_1707727290358577942_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=103&_nc_ohc=ieyu4T7k3FkAX-zhmwB&tp=1&oh=77320b60d6a18aede9e3d9f1e83f9679&oe=603373A2"
+            },
+            {
+                "config_height": 853,
+                "config_width": 480,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/148465902_2811178065829359_1707727290358577942_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=103&_nc_ohc=ieyu4T7k3FkAX-zhmwB&tp=1&oh=3ac50c300d3f22bae326cfc1f0d48da2&oe=6033D6DC"
+            },
+            {
+                "config_height": 1137,
+                "config_width": 640,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/148465902_2811178065829359_1707727290358577942_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=103&_nc_ohc=ieyu4T7k3FkAX-zhmwB&tp=1&oh=3ac50c300d3f22bae326cfc1f0d48da2&oe=6033D6DC"
+            }
+        ],
+        "thumbnail_src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e35/c0.186.480.480a/148465902_2811178065829359_1707727290358577942_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=103&_nc_ohc=ieyu4T7k3FkAX-zhmwB&tp=1&oh=99c1e28de52562a30dc6d6d2516fecb8&oe=603391C3",
+        "title": "How can you vote to not convict after watching this?",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiZDZlMDBkZWZlMDI2NDFhZWI4YjBhZThhNTAwMmMyZmMyNTA1NTYwMjAwNzI2MzU2MjQ3In0sInNpZ25hdHVyZSI6IiJ9",
+        "video_duration": 844.033,
+        "video_url": "https://scontent-hkg4-2.cdninstagram.com/v/t50.16885-16/10000000_808135393248976_4380330484545516378_n.mp4?_nc_ht=scontent-hkg4-2.cdninstagram.com&_nc_cat=104&_nc_ohc=tsmNYXuMRbwAX9ri7nF&oe=603359C0&oh=4e3a1889ecf98a35fc5ee65f0fd3cb7c",
+        "video_view_count": 352,
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}

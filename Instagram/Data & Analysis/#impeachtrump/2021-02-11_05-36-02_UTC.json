@@ -1,0 +1,138 @@
+{
+    "instaloader": {
+        "node_type": "Post",
+        "version": "4.6.1"
+    },
+    "node": {
+        "__typename": "GraphVideo",
+        "accessibility_caption": null,
+        "caption_is_edited": false,
+        "commenting_disabled_for_viewer": false,
+        "comments_disabled": false,
+        "dash_info": {
+            "is_dash_eligible": false,
+            "number_of_qualities": 0,
+            "video_dash_manifest": null
+        },
+        "dimensions": {
+            "height": 1920,
+            "width": 1080
+        },
+        "display_resources": [
+            {
+                "config_height": 1137,
+                "config_width": 640,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/p640x640/148338546_424683391978994_9016929460804698792_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=iqijZcMXCLQAX8QELwQ&tp=1&oh=387784d067dc42b770fb8e6627e43670&oe=60336868"
+            },
+            {
+                "config_height": 1333,
+                "config_width": 750,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/p750x750/148338546_424683391978994_9016929460804698792_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=iqijZcMXCLQAX8QELwQ&tp=1&oh=9075d9287e41a01312aa19b86a3a8564&oe=6033FA24"
+            },
+            {
+                "config_height": 1920,
+                "config_width": 1080,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/fr/e15/p1080x1080/148338546_424683391978994_9016929460804698792_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=iqijZcMXCLQAX8QELwQ&tp=1&oh=0b72c43742ca515f410675bb2ad0643b&oe=6033F630"
+            }
+        ],
+        "display_url": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/fr/e15/p1080x1080/148338546_424683391978994_9016929460804698792_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=iqijZcMXCLQAX8QELwQ&tp=1&oh=0b72c43742ca515f410675bb2ad0643b&oe=6033F630",
+        "edge_liked_by": {
+            "count": 73
+        },
+        "edge_media_preview_like": {
+            "count": 73,
+            "edges": []
+        },
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "Today was where the House Impeachment managers presented their case.\nThey used a lot of video footage to connect the dots and show that this isn't just about the insurrection on January 6th.\n\nThey used a lot of video, images and audio clips to demonstrate that Trump has been inciting his base since last summer when he told Fox News that he wouldn't accept the results of the election if he lost. \n\nAlso, with videos about the events on January 6th (some of it never seen before) the impeachment managers gave \"visceral recounting of the attempted insurrection at the Capitol.\" (Washington Post) \n\nClick on these links for more information:\n\ud83d\udc49 https://www.washingtonpost.com/politics/senate-impeachment-trial-trump/2021/02/10/17863674-6bbe-11eb-9f80-3d7646ce1bc0_story.html\n\n\ud83d\udc49 https://messaging-custom-newsletters.nytimes.com/template/oakv2\n\n\ud83d\udc49 https://www.cnn.com/2021/02/10/politics/trump-impeachment-trial-day-2-takeaways/index.html"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 11,
+            "edges": [],
+            "page_info": {
+                "end_cursor": "",
+                "has_next_page": true
+            }
+        },
+        "edge_media_to_sponsor_user": {
+            "edges": []
+        },
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "edge_web_media_to_related_media": {
+            "edges": []
+        },
+        "encoding_status": null,
+        "fact_check_information": null,
+        "fact_check_overall_rating": null,
+        "gating_info": null,
+        "has_ranked_comments": false,
+        "id": "2506530172180695403",
+        "is_ad": false,
+        "is_published": true,
+        "is_video": true,
+        "location": null,
+        "media_preview": "ABcqkoqQ3sRy3IHoY14H50kN9DM21TkgZx5ajOOuDnrXX7XyZ5/1d/zIZRUpvoY2wwLe3lqDz05zRR7XyYfV3/MjClI8s/QU+1jMDxSNxvYj6dBz9c1fOi3GMbo/zb/4mkexuZRsEkY5HAL9R/wGuZs70rDdQVVkz3ZQT+GRRWleafLcKApUMD1JPTH09cUU0xNEXnP/AHm/M0edJ/eb8zUdFd1l2PH5n3f3knnP/eb8zRUdFFl2Dmfd/ef/2Q==",
+        "owner": {
+            "blocked_by_viewer": false,
+            "followed_by_viewer": false,
+            "full_name": "Sylvia S | Latina Influencer",
+            "has_blocked_viewer": false,
+            "id": "4735059606",
+            "is_private": false,
+            "is_unpublished": false,
+            "is_verified": false,
+            "profile_pic_url": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-19/s150x150/43507750_229307454667584_490980079795437568_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_ohc=m0arw-0w4OUAX-wnZge&tp=1&oh=9f97d9b5c04cae89d57303444e51f19a&oe=6059139C",
+            "requested_by_viewer": false,
+            "username": "tono.latino"
+        },
+        "product_type": "igtv",
+        "shortcode": "CLI--lToQlr",
+        "taken_at_timestamp": 1613021762,
+        "thumbnail_resources": [
+            {
+                "config_height": 266,
+                "config_width": 150,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e15/p150x150/148338546_424683391978994_9016929460804698792_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=iqijZcMXCLQAX8QELwQ&tp=1&oh=132fe18d659e41ab1965c3afbffc88e2&oe=6033E7DB"
+            },
+            {
+                "config_height": 426,
+                "config_width": 240,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e15/p240x240/148338546_424683391978994_9016929460804698792_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=iqijZcMXCLQAX8QELwQ&tp=1&oh=64a27f0bfabca452dcb6f83774828220&oe=60335A5D"
+            },
+            {
+                "config_height": 568,
+                "config_width": 320,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e15/p320x320/148338546_424683391978994_9016929460804698792_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=iqijZcMXCLQAX8QELwQ&tp=1&oh=a1a61ab082eac7d0672768f6bdc843e5&oe=6033ECA3"
+            },
+            {
+                "config_height": 853,
+                "config_width": 480,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/e15/p480x480/148338546_424683391978994_9016929460804698792_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=iqijZcMXCLQAX8QELwQ&tp=1&oh=f84f41af9aa7460cf075a1dd170d3dbe&oe=6033E626"
+            },
+            {
+                "config_height": 1137,
+                "config_width": 640,
+                "src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/p640x640/148338546_424683391978994_9016929460804698792_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=iqijZcMXCLQAX8QELwQ&tp=1&oh=387784d067dc42b770fb8e6627e43670&oe=60336868"
+            }
+        ],
+        "thumbnail_src": "https://scontent-hkg4-1.cdninstagram.com/v/t51.2885-15/sh0.08/e35/c0.420.1080.1080a/s640x640/148338546_424683391978994_9016929460804698792_n.jpg?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=102&_nc_ohc=iqijZcMXCLQAX8QELwQ&tp=1&oh=370c8125d82b6a8a93b91baf95cf8e7c&oe=60339C5F",
+        "title": "Second Impeachment. Second Day",
+        "tracking_token": "eyJ2ZXJzaW9uIjo1LCJwYXlsb2FkIjp7ImlzX2FuYWx5dGljc190cmFja2VkIjp0cnVlLCJ1dWlkIjoiNjI2YzZlYjE1MmJiNDMxMzlmNWM4ZTA2NmU4Njg5MzEyNTA2NTMwMTcyMTgwNjk1NDAzIn0sInNpZ25hdHVyZSI6IiJ9",
+        "video_duration": 498.066,
+        "video_url": "https://scontent-hkg4-1.cdninstagram.com/v/t50.2886-16/10000000_423201432303547_32563001924795871_n.mp4?_nc_ht=scontent-hkg4-1.cdninstagram.com&_nc_cat=107&_nc_ohc=2op29V7RRfsAX9C2zQa&oe=60335D8F&oh=a563fc4b470590c17ae6ab4a60c538ff",
+        "video_view_count": 411,
+        "viewer_can_reshare": true,
+        "viewer_has_liked": false,
+        "viewer_has_saved": false,
+        "viewer_has_saved_to_collection": false,
+        "viewer_in_photo_of_you": false
+    }
+}
