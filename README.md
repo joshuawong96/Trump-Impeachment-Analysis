@@ -1,5 +1,5 @@
 # Trump-Impeachment-Analysis
-This Amazon Review Analysis project was one of the assessment components for the Singapore Management University (SMU) module SMT202 - Computational Social Science. 
+This Social Media Sentiment Analysis project was one of the assessment components for the Singapore Management University (SMU) module SMT202 - Computational Social Science. 
 
 ---
 
@@ -21,7 +21,5 @@ Social media data scraped from Twitter can be found [here](https://github.com/jo
 Our analysis can be found in the Jupyter notebook [Trump_Impeachment_Analysis.ipynb](https://github.com/joshuawong96/Trump-Impeachment-Analysis/blob/master/Combined%20Analysis/Trump_Impeachment_Analysis.ipynb) and our insights can be found in a summarised 2-page report [Trump Impeachment Analysis Report](https://github.com/joshuawong96/Trump-Impeachment-Analysis/blob/master/Trump%20Impeachment%20Analysis%20Report.pdf).
 
 ### Contributors
-
-1. Chen Jian Yu ([Linkedin](https://www.linkedin.com/in/chen-jian-yu/), [Github](https://github.com/CJianYu98))
-2. Joshua Wong Yeung Nguon ([Linkedin](https://www.linkedin.com/in/joshuawong96/), [Github](https://github.com/joshuawong96))
-1. Ow Ling Jia ([Linkedin](https://www.linkedin.com/in/owlingjia/), [Github](https://github.com/owlingjia))
+1. Joshua Wong Yeung Nguon ([Linkedin](https://www.linkedin.com/in/joshuawong96/), [Github](https://github.com/joshuawong96))
+2. Ow Ling Jia ([Linkedin](https://www.linkedin.com/in/owlingjia/), [Github](https://github.com/owlingjia))
